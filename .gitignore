@@ -1,0 +1,32 @@
+# PorteBosh — Git Ignore Configuration
+
+# Internal files and prompts (strictly omitted from public repository)
+PorteBosh.md
+AGENTS.md
+docs/
+*.bak
+*.tmp
+
+# Flutter & Dart dependencies and build outputs
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Android build outputs and keystores
+.gradle/
+local.properties
+**/android/**/build/
+**/android/**/.gradle/
+**/android/app/build/
+*.keystore
+*.jks
+
+# IDE & Editor configuration files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store

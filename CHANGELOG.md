@@ -13,3 +13,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 
 ### Development History
 - [2024-02-15] chore: initialize repository with MIT license
+- [2024-02-15] chore: add project configuration and .gitignore
