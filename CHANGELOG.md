@@ -19,3 +19,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-02-17] fix(core): harden backup manifest validation
 - [2024-02-17] feat(files): optimize narrow screen layout
 - [2024-02-17] refactor(database): clean up backup manifest validation
+- [2024-02-17] perf(database): resolve issue in narrow screen layout
