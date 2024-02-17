@@ -15,3 +15,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-02-15] chore: initialize repository with MIT license
 - [2024-02-15] chore: add project configuration and .gitignore
 - [2024-02-16] chore(calendar): clean up query index performance
+- [2024-02-17] perf(tasks): clean up type safety constraints
