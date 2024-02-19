@@ -21,3 +21,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-02-17] refactor(database): clean up backup manifest validation
 - [2024-02-17] perf(database): resolve issue in narrow screen layout
 - [2024-02-18] chore(flutter): configure pubspec dependencies and analysis options
+- [2024-02-19] chore(android): configure Android build scripts and offline manifest
