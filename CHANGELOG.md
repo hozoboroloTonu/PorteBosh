@@ -24,3 +24,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-02-19] chore(android): configure Android build scripts and offline manifest
 - [2024-02-22] fix(routine): adjust backup manifest validation
 - [2024-02-23] refactor(files): adjust time calculation edge cases
+- [2024-02-23] style(backup): harden type safety constraints
