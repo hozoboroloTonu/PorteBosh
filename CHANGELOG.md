@@ -27,3 +27,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-02-23] style(backup): harden type safety constraints
 - [2024-02-25] feat(calendar): differentiate recurring classes from one-time events
 - [2024-02-26] test(files): update narrow screen layout
+- [2024-02-26] feat(theme): enhance narrow screen layout
