@@ -29,3 +29,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-02-26] test(files): update narrow screen layout
 - [2024-02-26] feat(theme): enhance narrow screen layout
 - [2024-02-26] test(notes): harden null check handling
+- [2024-02-26] refactor(exams): improve narrow screen layout
