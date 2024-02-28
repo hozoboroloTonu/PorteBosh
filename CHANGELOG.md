@@ -32,3 +32,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-02-26] refactor(exams): improve narrow screen layout
 - [2024-02-26] fix(calendar): enhance error logging clarity
 - [2024-02-28] fix(backup): streamline error logging clarity
+- [2024-02-28] refactor(routine): modularize session time formatting helpers
