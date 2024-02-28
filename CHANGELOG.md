@@ -31,3 +31,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-02-26] test(notes): harden null check handling
 - [2024-02-26] refactor(exams): improve narrow screen layout
 - [2024-02-26] fix(calendar): enhance error logging clarity
+- [2024-02-28] fix(backup): streamline error logging clarity
