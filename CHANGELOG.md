@@ -38,3 +38,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-02-29] style(core): enhance memory allocation efficiency
 - [2024-02-29] refactor(files): optimize narrow screen layout
 - [2024-02-29] fix(core): enhance stream subscription lifecycle
+- [2024-02-29] chore(database): resolve issue in cache invalidation trigger
