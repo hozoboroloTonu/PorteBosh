@@ -41,3 +41,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-02-29] chore(database): resolve issue in cache invalidation trigger
 - [2024-03-01] test(core): update cache invalidation trigger
 - [2024-03-01] fix(exams): fix time calculation edge cases
+- [2024-03-02] test(backup): expand tests for error boundary logic
