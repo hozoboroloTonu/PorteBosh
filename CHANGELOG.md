@@ -45,3 +45,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-03] docs(backup): enhance error boundary logic
 - [2024-03-03] style(dashboard): polish parameter validation
 - [2024-03-03] feat(notes): refactor memory allocation efficiency
+- [2024-03-04] feat(theme): define semantic color tokens and typography scale
