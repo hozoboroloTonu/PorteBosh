@@ -49,3 +49,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-06] feat(theme): implement light and dark theme configurations
 - [2024-03-08] fix(backup): polish accessibility semantics
 - [2024-03-08] chore(files): resolve issue in parameter validation
+- [2024-03-08] perf(files): adjust query index performance
