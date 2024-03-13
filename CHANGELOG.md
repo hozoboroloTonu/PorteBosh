@@ -55,3 +55,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-11] test(unit): verify time interval overlap detection cases
 - [2024-03-11] test(notes): improve memory allocation efficiency
 - [2024-03-13] feat(core): implement Saturday-first weekday enum and display helpers
+- [2024-03-13] feat(core): add time utilities and interval overlap validation
