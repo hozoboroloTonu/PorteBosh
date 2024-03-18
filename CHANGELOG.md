@@ -61,3 +61,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-14] refactor(backup): adjust parameter validation
 - [2024-03-17] refactor(backup): implement null check handling
 - [2024-03-17] fix(files): resolve issue in time calculation edge cases
+- [2024-03-18] perf(files): resolve issue in narrow screen layout
