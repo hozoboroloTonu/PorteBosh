@@ -63,3 +63,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-17] fix(files): resolve issue in time calculation edge cases
 - [2024-03-18] perf(files): resolve issue in narrow screen layout
 - [2024-03-19] fix(viewers): adjust query index performance
+- [2024-03-20] test(routine): optimize accessibility semantics
