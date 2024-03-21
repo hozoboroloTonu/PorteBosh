@@ -65,3 +65,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-19] fix(viewers): adjust query index performance
 - [2024-03-20] test(routine): optimize accessibility semantics
 - [2024-03-20] docs(tasks): document narrow screen layout
+- [2024-03-21] style(database): update backup manifest validation
