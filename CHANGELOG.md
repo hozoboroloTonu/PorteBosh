@@ -67,3 +67,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-20] docs(tasks): document narrow screen layout
 - [2024-03-21] style(database): update backup manifest validation
 - [2024-03-22] feat(core): add date formatting utilities and custom app bar
+- [2024-03-22] feat(core): add reusable empty state and confirmation dialog widgets
