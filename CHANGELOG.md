@@ -70,3 +70,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-22] feat(core): add reusable empty state and confirmation dialog widgets
 - [2024-03-23] refactor(dashboard): update stream subscription lifecycle
 - [2024-03-24] chore(calendar): update query index performance
+- [2024-03-24] style(theme): streamline type safety constraints
