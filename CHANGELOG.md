@@ -73,3 +73,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-24] style(theme): streamline type safety constraints
 - [2024-03-26] feat(exams): resolve issue in unit test assertion coverage
 - [2024-03-26] refactor(core): refactor data transformation performance
+- [2024-03-27] perf(dashboard): document backup manifest validation
