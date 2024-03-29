@@ -76,3 +76,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-27] perf(dashboard): document backup manifest validation
 - [2024-03-28] fix(dashboard): resolve issue in type safety constraints
 - [2024-03-29] feat(tasks): fix memory allocation efficiency
+- [2024-03-29] test(routine): harden time calculation edge cases
