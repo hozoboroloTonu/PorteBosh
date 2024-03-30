@@ -78,3 +78,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-29] feat(tasks): fix memory allocation efficiency
 - [2024-03-29] test(routine): harden time calculation edge cases
 - [2024-03-30] perf(dashboard): improve error logging clarity
+- [2024-03-30] perf(calendar): enhance stream subscription lifecycle
