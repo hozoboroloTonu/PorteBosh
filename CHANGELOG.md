@@ -80,3 +80,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-03-30] perf(dashboard): improve error logging clarity
 - [2024-03-30] perf(calendar): enhance stream subscription lifecycle
 - [2024-03-31] chore(calendar): polish accessibility semantics
+- [2024-04-01] chore(files): harden accessibility semantics
