@@ -85,3 +85,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-02] test(backup): clean up null check handling
 - [2024-04-02] fix(courses): sanitize course code input whitespace
 - [2024-04-02] fix(exams): improve time calculation edge cases
+- [2024-04-03] docs(notes): enhance null check handling
