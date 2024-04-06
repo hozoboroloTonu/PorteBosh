@@ -88,3 +88,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-03] docs(notes): enhance null check handling
 - [2024-04-04] chore(files): clean up memory allocation efficiency
 - [2024-04-05] chore(dashboard): fix null check handling
+- [2024-04-06] test(calendar): enhance accessibility semantics
