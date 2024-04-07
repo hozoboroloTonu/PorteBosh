@@ -91,3 +91,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-06] test(calendar): enhance accessibility semantics
 - [2024-04-06] perf(routine): expand tests for narrow screen layout
 - [2024-04-07] style(courses): polish narrow screen layout
+- [2024-04-07] docs(dashboard): streamline type safety constraints
