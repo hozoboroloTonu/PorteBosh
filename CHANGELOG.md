@@ -96,3 +96,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-07] refactor(files): polish error logging clarity
 - [2024-04-08] test(dashboard): resolve issue in parameter validation
 - [2024-04-08] fix(calendar): adjust null check handling
+- [2024-04-10] feat(database): define course and weekly class session table schemas
