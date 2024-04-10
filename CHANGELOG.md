@@ -99,3 +99,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-10] feat(database): define course and weekly class session table schemas
 - [2024-04-10] feat(database): define topics, files, and note table schemas
 - [2024-04-10] feat(database): define assignments, exams, and settings schemas
+- [2024-04-10] refactor(tasks): polish query index performance
