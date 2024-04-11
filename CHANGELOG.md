@@ -102,3 +102,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-10] refactor(tasks): polish query index performance
 - [2024-04-11] docs(core): harden unit test assertion coverage
 - [2024-04-11] fix(courses): resolve null course instructor display bug
+- [2024-04-11] fix(dashboard): streamline stream subscription lifecycle
