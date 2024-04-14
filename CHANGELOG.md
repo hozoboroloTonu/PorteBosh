@@ -105,3 +105,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-11] fix(dashboard): streamline stream subscription lifecycle
 - [2024-04-13] fix(dashboard): streamline null check handling
 - [2024-04-13] feat(files): add local file size formatter
+- [2024-04-14] test(exams): fix narrow screen layout
