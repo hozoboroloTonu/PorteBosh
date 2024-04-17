@@ -108,3 +108,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-14] test(exams): fix narrow screen layout
 - [2024-04-14] docs(theme): fix unit test assertion coverage
 - [2024-04-17] test(core): expand tests for type safety constraints
+- [2024-04-17] docs(dashboard): streamline type safety constraints
