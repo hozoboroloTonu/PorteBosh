@@ -113,3 +113,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-18] refactor(courses): unify course validation logic into validator class
 - [2024-04-18] refactor(dashboard): document error logging clarity
 - [2024-04-19] fix(core): enhance type safety constraints
+- [2024-04-19] style(courses): implement accessibility semantics
