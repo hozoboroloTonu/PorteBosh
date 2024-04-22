@@ -118,3 +118,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-21] test(courses): harden null check handling
 - [2024-04-22] test(unit): test backup manifest validation with future schema
 - [2024-04-22] fix(files): harden narrow screen layout
+- [2024-04-22] refactor(database): improve data transformation performance
