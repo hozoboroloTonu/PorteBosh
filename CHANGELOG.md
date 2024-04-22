@@ -116,3 +116,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-19] style(courses): implement accessibility semantics
 - [2024-04-20] refactor(theme): resolve issue in unit test assertion coverage
 - [2024-04-21] test(courses): harden null check handling
+- [2024-04-22] test(unit): test backup manifest validation with future schema
