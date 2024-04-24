@@ -122,3 +122,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-22] test(viewers): resolve issue in error logging clarity
 - [2024-04-23] docs(backup): polish narrow screen layout
 - [2024-04-23] test(backup): implement cache invalidation trigger
+- [2024-04-24] fix(calendar): update time calculation edge cases
