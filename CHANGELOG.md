@@ -123,3 +123,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-23] docs(backup): polish narrow screen layout
 - [2024-04-23] test(backup): implement cache invalidation trigger
 - [2024-04-24] fix(calendar): update time calculation edge cases
+- [2024-04-24] docs(exams): improve backup manifest validation
