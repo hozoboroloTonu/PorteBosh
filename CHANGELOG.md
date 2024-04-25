@@ -124,3 +124,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-23] test(backup): implement cache invalidation trigger
 - [2024-04-24] fix(calendar): update time calculation edge cases
 - [2024-04-24] docs(exams): improve backup manifest validation
+- [2024-04-25] chore(dashboard): update error logging clarity
