@@ -128,3 +128,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-04-30] test(dashboard): harden type safety constraints
 - [2024-04-30] fix(dashboard): resolve issue in stream subscription lifecycle
 - [2024-04-30] style(database): implement data transformation performance
+- [2024-05-01] style(theme): implement cache invalidation trigger
