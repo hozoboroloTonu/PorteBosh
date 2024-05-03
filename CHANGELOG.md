@@ -131,3 +131,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-01] style(theme): implement cache invalidation trigger
 - [2024-05-01] chore(database): clean up unit test assertion coverage
 - [2024-05-02] feat(database): implement local database controller and SQLite data access
+- [2024-05-03] perf(core): implement memory allocation efficiency
