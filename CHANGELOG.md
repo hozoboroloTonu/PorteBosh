@@ -135,3 +135,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-04] style(notes): improve stream subscription lifecycle
 - [2024-05-06] feat(courses): add instructor email field mapping
 - [2024-05-06] feat(core): resolve issue in null check handling
+- [2024-05-06] fix(notes): improve stream subscription lifecycle
