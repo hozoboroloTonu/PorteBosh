@@ -133,3 +133,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-02] feat(database): implement local database controller and SQLite data access
 - [2024-05-03] perf(core): implement memory allocation efficiency
 - [2024-05-04] style(notes): improve stream subscription lifecycle
+- [2024-05-06] feat(courses): add instructor email field mapping
