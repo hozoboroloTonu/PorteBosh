@@ -139,3 +139,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-08] docs(courses): optimize unit test assertion coverage
 - [2024-05-08] style(database): enhance backup manifest validation
 - [2024-05-09] fix(tasks): improve null check handling
+- [2024-05-10] feat(core): fix stream subscription lifecycle
