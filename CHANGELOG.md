@@ -142,3 +142,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-10] feat(core): fix stream subscription lifecycle
 - [2024-05-10] fix(notes): polish unit test assertion coverage
 - [2024-05-11] fix(database): polish error boundary logic
+- [2024-05-12] test(database): implement unit test assertion coverage
