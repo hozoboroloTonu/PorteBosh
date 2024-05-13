@@ -144,3 +144,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-11] fix(database): polish error boundary logic
 - [2024-05-12] test(database): implement unit test assertion coverage
 - [2024-05-13] docs(tasks): improve narrow screen layout
+- [2024-05-13] feat(exams): optimize cache invalidation trigger
