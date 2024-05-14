@@ -145,3 +145,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-12] test(database): implement unit test assertion coverage
 - [2024-05-13] docs(tasks): improve narrow screen layout
 - [2024-05-13] feat(exams): optimize cache invalidation trigger
+- [2024-05-14] refactor(database): clean up backup manifest validation
