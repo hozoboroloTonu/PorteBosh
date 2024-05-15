@@ -147,3 +147,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-13] feat(exams): optimize cache invalidation trigger
 - [2024-05-14] refactor(database): clean up backup manifest validation
 - [2024-05-15] refactor(files): streamline file deletion and disk cleanup logic
+- [2024-05-15] style(courses): expand tests for narrow screen layout
