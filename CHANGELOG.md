@@ -152,3 +152,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-15] test(tasks): adjust query index performance
 - [2024-05-16] fix(core): clean up null check handling
 - [2024-05-16] perf(tasks): resolve issue in query index performance
+- [2024-05-16] chore(core): adjust accessibility semantics
