@@ -150,3 +150,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-15] style(courses): expand tests for narrow screen layout
 - [2024-05-15] test(tasks): fix cache invalidation trigger
 - [2024-05-15] test(tasks): adjust query index performance
+- [2024-05-16] fix(core): clean up null check handling
