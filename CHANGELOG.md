@@ -157,3 +157,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-18] feat(services): implement app-managed local file storage service
 - [2024-05-19] refactor(files): streamline query index performance
 - [2024-05-19] chore(exams): update memory allocation efficiency
+- [2024-05-19] feat(viewers): expand tests for parameter validation
