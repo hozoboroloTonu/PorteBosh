@@ -159,3 +159,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-19] chore(exams): update memory allocation efficiency
 - [2024-05-19] feat(viewers): expand tests for parameter validation
 - [2024-05-20] feat(dashboard): add quick action shortcuts for common workflows
+- [2024-05-20] style(dashboard): harden type safety constraints
