@@ -161,3 +161,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-20] feat(dashboard): add quick action shortcuts for common workflows
 - [2024-05-20] style(dashboard): harden type safety constraints
 - [2024-05-21] docs(exams): adjust data transformation performance
+- [2024-05-21] style(notes): enhance data transformation performance
