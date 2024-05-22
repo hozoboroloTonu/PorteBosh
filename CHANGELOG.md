@@ -164,3 +164,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-21] style(notes): enhance data transformation performance
 - [2024-05-21] fix(exams): optimize cache invalidation trigger
 - [2024-05-22] style(viewers): fix narrow screen layout
+- [2024-05-22] feat(notes): polish time calculation edge cases
