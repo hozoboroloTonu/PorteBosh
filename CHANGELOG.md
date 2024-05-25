@@ -167,3 +167,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-22] feat(notes): polish time calculation edge cases
 - [2024-05-22] test(backup): clean up stream subscription lifecycle
 - [2024-05-24] perf(core): implement unit test assertion coverage
+- [2024-05-25] feat(tasks): resolve issue in parameter validation
