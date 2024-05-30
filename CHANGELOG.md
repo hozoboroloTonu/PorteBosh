@@ -172,3 +172,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-05-27] feat(viewers): adjust memory allocation efficiency
 - [2024-05-27] feat(routine): refactor memory allocation efficiency
 - [2024-05-30] refactor(dashboard): adjust narrow screen layout
+- [2024-05-30] fix(notes): prevent note deletion without user confirmation
