@@ -176,3 +176,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-01] docs(exams): fix data transformation performance
 - [2024-06-02] style(courses): clean up accessibility semantics
 - [2024-06-02] feat(tasks): implement narrow screen layout
+- [2024-06-02] docs(routine): fix time calculation edge cases
