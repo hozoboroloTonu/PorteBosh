@@ -177,3 +177,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-02] style(courses): clean up accessibility semantics
 - [2024-06-02] feat(tasks): implement narrow screen layout
 - [2024-06-02] docs(routine): fix time calculation edge cases
+- [2024-06-03] refactor(courses): harden stream subscription lifecycle
