@@ -179,3 +179,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-02] docs(routine): fix time calculation edge cases
 - [2024-06-03] refactor(courses): harden stream subscription lifecycle
 - [2024-06-03] refactor(dashboard): resolve issue in time calculation edge cases
+- [2024-06-03] fix(calendar): document query index performance
