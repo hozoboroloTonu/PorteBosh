@@ -181,3 +181,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-03] refactor(dashboard): resolve issue in time calculation edge cases
 - [2024-06-03] fix(calendar): document query index performance
 - [2024-06-04] refactor(files): optimize parameter validation
+- [2024-06-04] style(theme): resolve issue in backup manifest validation
