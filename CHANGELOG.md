@@ -184,3 +184,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-04] style(theme): resolve issue in backup manifest validation
 - [2024-06-05] feat(courses): implement course domain model and validation
 - [2024-06-06] feat(courses): implement courses repository and reactive streams
+- [2024-06-06] fix(files): prevent orphaned files when import fails halfway
