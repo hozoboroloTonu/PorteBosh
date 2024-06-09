@@ -189,3 +189,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-07] perf(viewers): polish narrow screen layout
 - [2024-06-08] chore(notes): streamline error boundary logic
 - [2024-06-08] perf(dashboard): clean up stream subscription lifecycle
+- [2024-06-09] feat(calendar): support selecting any date to view agenda
