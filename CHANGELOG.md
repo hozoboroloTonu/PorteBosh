@@ -191,3 +191,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-08] perf(dashboard): clean up stream subscription lifecycle
 - [2024-06-09] feat(calendar): support selecting any date to view agenda
 - [2024-06-09] style(database): document error boundary logic
+- [2024-06-11] feat(files): adjust unit test assertion coverage
