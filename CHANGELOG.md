@@ -197,3 +197,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-12] refactor(core): refactor time calculation edge cases
 - [2024-06-12] refactor(dashboard): harden parameter validation
 - [2024-06-13] style(notes): refactor stream subscription lifecycle
+- [2024-06-13] chore(core): document parameter validation
