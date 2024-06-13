@@ -199,3 +199,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-13] style(notes): refactor stream subscription lifecycle
 - [2024-06-13] chore(core): document parameter validation
 - [2024-06-13] feat(backup): resolve issue in time calculation edge cases
+- [2024-06-13] test(files): document backup manifest validation
