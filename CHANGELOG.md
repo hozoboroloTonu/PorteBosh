@@ -205,3 +205,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-15] chore(viewers): implement memory allocation efficiency
 - [2024-06-16] refactor(core): improve stream subscription lifecycle
 - [2024-06-17] test(tasks): refactor accessibility semantics
+- [2024-06-17] style(theme): refine dark surface layers for contrast compliance
