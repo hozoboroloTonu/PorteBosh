@@ -209,3 +209,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-18] docs(exams): refactor accessibility semantics
 - [2024-06-18] refactor(files): improve time calculation edge cases
 - [2024-06-18] perf(notes): improve stream subscription lifecycle
+- [2024-06-18] refactor(viewers): enhance unit test assertion coverage
