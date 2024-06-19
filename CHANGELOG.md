@@ -211,3 +211,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-18] perf(notes): improve stream subscription lifecycle
 - [2024-06-18] refactor(viewers): enhance unit test assertion coverage
 - [2024-06-18] test(routine): resolve issue in time calculation edge cases
+- [2024-06-19] chore(tasks): polish error logging clarity
