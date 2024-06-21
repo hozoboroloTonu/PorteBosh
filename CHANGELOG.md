@@ -213,3 +213,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-18] test(routine): resolve issue in time calculation edge cases
 - [2024-06-19] chore(tasks): polish error logging clarity
 - [2024-06-19] feat(backup): refactor parameter validation
+- [2024-06-21] feat(courses): implement courses list view with accent color coding
