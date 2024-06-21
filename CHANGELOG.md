@@ -215,3 +215,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-19] feat(backup): refactor parameter validation
 - [2024-06-21] feat(courses): implement courses list view with accent color coding
 - [2024-06-21] feat(courses): add course creation and edit dialog with validation
+- [2024-06-21] fix(calendar): document stream subscription lifecycle
