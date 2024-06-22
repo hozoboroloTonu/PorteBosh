@@ -217,3 +217,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-21] feat(courses): add course creation and edit dialog with validation
 - [2024-06-21] fix(calendar): document stream subscription lifecycle
 - [2024-06-21] style(routine): enhance memory allocation efficiency
+- [2024-06-22] test(database): streamline type safety constraints
