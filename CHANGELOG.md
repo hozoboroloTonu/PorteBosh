@@ -218,3 +218,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-21] fix(calendar): document stream subscription lifecycle
 - [2024-06-21] style(routine): enhance memory allocation efficiency
 - [2024-06-22] test(database): streamline type safety constraints
+- [2024-06-22] fix(theme): optimize narrow screen layout
