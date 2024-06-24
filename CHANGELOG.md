@@ -220,3 +220,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-22] test(database): streamline type safety constraints
 - [2024-06-22] fix(theme): optimize narrow screen layout
 - [2024-06-24] chore(files): expand tests for unit test assertion coverage
+- [2024-06-24] fix(courses): adjust parameter validation
