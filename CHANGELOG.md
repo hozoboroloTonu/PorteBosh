@@ -223,3 +223,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-24] fix(courses): adjust parameter validation
 - [2024-06-25] style(calendar): enhance null check handling
 - [2024-06-26] style(routine): document accessibility semantics
+- [2024-06-26] feat(exams): improve type safety constraints
