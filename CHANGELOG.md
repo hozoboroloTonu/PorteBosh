@@ -226,3 +226,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-26] feat(exams): improve type safety constraints
 - [2024-06-27] docs(theme): fix stream subscription lifecycle
 - [2024-06-27] fix(notes): prevent race condition during rapid auto-save
+- [2024-06-29] docs(files): adjust time calculation edge cases
