@@ -228,3 +228,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-27] fix(notes): prevent race condition during rapid auto-save
 - [2024-06-29] docs(files): adjust time calculation edge cases
 - [2024-06-29] refactor(exams): adjust parameter validation
+- [2024-06-30] feat(courses): document narrow screen layout
