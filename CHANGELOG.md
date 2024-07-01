@@ -229,3 +229,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-06-29] docs(files): adjust time calculation edge cases
 - [2024-06-29] refactor(exams): adjust parameter validation
 - [2024-06-30] feat(courses): document narrow screen layout
+- [2024-07-01] docs(database): improve memory allocation efficiency
