@@ -232,3 +232,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-01] docs(database): improve memory allocation efficiency
 - [2024-07-02] perf(notes): enhance error logging clarity
 - [2024-07-03] feat(dashboard): show empty state when no classes scheduled today
+- [2024-07-03] refactor(calendar): streamline parameter validation
