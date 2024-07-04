@@ -237,3 +237,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-04] feat(exams): enhance error logging clarity
 - [2024-07-04] docs(database): adjust unit test assertion coverage
 - [2024-07-04] feat(files): implement file favorite toggle filter
+- [2024-07-04] style(database): document backup manifest validation
