@@ -235,3 +235,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-03] refactor(calendar): streamline parameter validation
 - [2024-07-03] fix(dashboard): adjust backup manifest validation
 - [2024-07-04] feat(exams): enhance error logging clarity
+- [2024-07-04] docs(database): adjust unit test assertion coverage
