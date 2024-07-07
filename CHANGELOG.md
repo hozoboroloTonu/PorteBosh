@@ -242,3 +242,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-06] style(backup): adjust data transformation performance
 - [2024-07-07] feat(tasks): improve time calculation edge cases
 - [2024-07-07] docs(core): refactor time calculation edge cases
+- [2024-07-07] docs(dashboard): polish data transformation performance
