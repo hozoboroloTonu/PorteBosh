@@ -245,3 +245,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-07] docs(dashboard): polish data transformation performance
 - [2024-07-08] style(database): fix error logging clarity
 - [2024-07-08] fix(routine): implement type safety constraints
+- [2024-07-08] fix(notes): improve accessibility semantics
