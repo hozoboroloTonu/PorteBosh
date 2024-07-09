@@ -247,3 +247,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-08] fix(routine): implement type safety constraints
 - [2024-07-08] fix(notes): improve accessibility semantics
 - [2024-07-08] test(tasks): expand tests for query index performance
+- [2024-07-09] chore(files): improve error boundary logic
