@@ -251,3 +251,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-12] feat(files): support file renaming without mutating disk path
 - [2024-07-14] feat(routine): implement routine session domain model and conflict detection
 - [2024-07-15] feat(routine): implement routine repository for weekly schedules
+- [2024-07-15] chore(dashboard): enhance null check handling
