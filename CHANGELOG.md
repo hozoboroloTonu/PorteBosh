@@ -253,3 +253,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-15] feat(routine): implement routine repository for weekly schedules
 - [2024-07-15] chore(dashboard): enhance null check handling
 - [2024-07-16] chore(files): implement parameter validation
+- [2024-07-18] chore(exams): fix data transformation performance
