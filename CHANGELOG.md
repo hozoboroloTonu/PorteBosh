@@ -258,3 +258,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-21] feat(calendar): optimize narrow screen layout
 - [2024-07-21] refactor(calendar): enhance time calculation edge cases
 - [2024-07-23] chore(viewers): improve time calculation edge cases
+- [2024-07-23] refactor(backup): clean up type safety constraints
