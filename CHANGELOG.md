@@ -262,3 +262,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-24] perf(database): improve data transformation performance
 - [2024-07-24] docs(theme): document narrow screen layout
 - [2024-07-24] fix(courses): improve backup manifest validation
+- [2024-07-24] style(backup): polish parameter validation
