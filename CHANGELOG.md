@@ -265,3 +265,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-24] style(backup): polish parameter validation
 - [2024-07-25] style(courses): enhance backup manifest validation
 - [2024-07-25] refactor(viewers): implement narrow screen layout
+- [2024-07-25] style(routine): polish backup manifest validation
