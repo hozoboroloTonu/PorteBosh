@@ -271,3 +271,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-28] docs(theme): update cache invalidation trigger
 - [2024-07-28] chore(database): polish error boundary logic
 - [2024-07-29] test(dashboard): resolve issue in narrow screen layout
+- [2024-07-29] style(files): update type safety constraints
