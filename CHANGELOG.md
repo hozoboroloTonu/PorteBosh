@@ -274,3 +274,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-29] style(files): update type safety constraints
 - [2024-07-30] feat(dashboard): improve type safety constraints
 - [2024-07-30] perf(tasks): fix query index performance
+- [2024-07-31] feat(core): polish backup manifest validation
