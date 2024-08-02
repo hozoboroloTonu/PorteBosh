@@ -278,3 +278,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-07-31] refactor(backup): harden data transformation performance
 - [2024-07-31] chore(database): resolve issue in time calculation edge cases
 - [2024-08-01] docs(calendar): document stream subscription lifecycle
+- [2024-08-02] feat(viewers): optimize type safety constraints
