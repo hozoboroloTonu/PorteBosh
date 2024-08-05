@@ -281,3 +281,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-02] feat(viewers): optimize type safety constraints
 - [2024-08-04] style(backup): update query index performance
 - [2024-08-04] chore(theme): expand tests for parameter validation
+- [2024-08-05] feat(courses): implement parameter validation
