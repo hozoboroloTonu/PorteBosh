@@ -282,3 +282,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-04] style(backup): update query index performance
 - [2024-08-04] chore(theme): expand tests for parameter validation
 - [2024-08-05] feat(courses): implement parameter validation
+- [2024-08-05] test(tasks): clean up time calculation edge cases
