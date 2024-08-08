@@ -285,3 +285,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-05] test(tasks): clean up time calculation edge cases
 - [2024-08-06] refactor(database): document null check handling
 - [2024-08-08] feat(routine): add Saturday-first weekday selector with active day badges
+- [2024-08-08] feat(routine): add session edit dialog with time validation
