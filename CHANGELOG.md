@@ -289,3 +289,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-10] feat(routine): implement course routine tab view with sorted sessions
 - [2024-08-11] refactor(calendar): polish parameter validation
 - [2024-08-12] refactor(files): document error logging clarity
+- [2024-08-12] refactor(database): update backup manifest validation
