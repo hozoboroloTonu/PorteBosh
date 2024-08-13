@@ -293,3 +293,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-12] chore(notes): document parameter validation
 - [2024-08-12] perf(backup): implement parameter validation
 - [2024-08-13] style(notes): harden time calculation edge cases
+- [2024-08-13] fix(theme): streamline cache invalidation trigger
