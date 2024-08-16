@@ -297,3 +297,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-14] refactor(courses): expand tests for type safety constraints
 - [2024-08-15] fix(courses): fix state loss on course search reset
 - [2024-08-15] style(backup): polish stream subscription lifecycle
+- [2024-08-16] feat(notes): optimize error boundary logic
