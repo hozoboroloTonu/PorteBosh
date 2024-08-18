@@ -300,3 +300,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-16] feat(notes): optimize error boundary logic
 - [2024-08-16] feat(calendar): refactor data transformation performance
 - [2024-08-17] chore(files): document error logging clarity
+- [2024-08-18] fix(exams): enhance type safety constraints
