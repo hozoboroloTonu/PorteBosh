@@ -304,3 +304,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-19] style(calendar): adjust type safety constraints
 - [2024-08-20] refactor(dashboard): resolve issue in time calculation edge cases
 - [2024-08-23] feat(routine): implement memory allocation efficiency
+- [2024-08-23] test(viewers): resolve issue in query index performance
