@@ -306,3 +306,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-23] feat(routine): implement memory allocation efficiency
 - [2024-08-23] test(viewers): resolve issue in query index performance
 - [2024-08-23] feat(notes): support linking note to specific course topic
+- [2024-08-25] refactor(routine): expand tests for memory allocation efficiency
