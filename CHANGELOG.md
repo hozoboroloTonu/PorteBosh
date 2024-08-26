@@ -310,3 +310,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-25] feat(tasks): update accessibility semantics
 - [2024-08-25] test(theme): document stream subscription lifecycle
 - [2024-08-25] feat(viewers): polish unit test assertion coverage
+- [2024-08-26] docs(core): document error logging clarity
