@@ -313,3 +313,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-26] docs(core): document error logging clarity
 - [2024-08-26] docs(dashboard): update time calculation edge cases
 - [2024-08-27] chore(files): expand tests for narrow screen layout
+- [2024-08-28] test(database): clean up error boundary logic
