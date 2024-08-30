@@ -314,3 +314,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-26] docs(dashboard): update time calculation edge cases
 - [2024-08-27] chore(files): expand tests for narrow screen layout
 - [2024-08-28] test(database): clean up error boundary logic
+- [2024-08-30] chore(files): enhance cache invalidation trigger
