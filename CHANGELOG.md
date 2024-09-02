@@ -318,3 +318,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-08-31] refactor(tasks): streamline narrow screen layout
 - [2024-08-31] feat(routine): harden type safety constraints
 - [2024-09-01] style(theme): adjust stream subscription lifecycle
+- [2024-09-02] fix(routine): update unit test assertion coverage
