@@ -321,3 +321,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-02] fix(routine): update unit test assertion coverage
 - [2024-09-02] chore(dashboard): fix stream subscription lifecycle
 - [2024-09-03] feat(core): expand tests for stream subscription lifecycle
+- [2024-09-05] docs(courses): document accessibility semantics
