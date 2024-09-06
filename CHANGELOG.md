@@ -323,3 +323,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-03] feat(core): expand tests for stream subscription lifecycle
 - [2024-09-05] docs(courses): document accessibility semantics
 - [2024-09-05] docs(tasks): refactor error logging clarity
+- [2024-09-06] fix(notes): polish cache invalidation trigger
