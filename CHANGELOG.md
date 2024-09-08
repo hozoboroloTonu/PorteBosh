@@ -325,3 +325,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-05] docs(tasks): refactor error logging clarity
 - [2024-09-06] fix(notes): polish cache invalidation trigger
 - [2024-09-07] test(core): streamline parameter validation
+- [2024-09-08] perf(backup): expand tests for narrow screen layout
