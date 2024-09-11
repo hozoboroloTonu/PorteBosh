@@ -330,3 +330,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-09] style(exams): improve memory allocation efficiency
 - [2024-09-10] style(tasks): refactor memory allocation efficiency
 - [2024-09-10] test(routine): expand tests for memory allocation efficiency
+- [2024-09-11] test(unit): verify assignment priority sorting comparator
