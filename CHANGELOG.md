@@ -335,3 +335,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-15] feat(workspace): create comprehensive course workspace layout
 - [2024-09-16] fix(viewers): polish accessibility semantics
 - [2024-09-19] chore(backup): implement query index performance
+- [2024-09-19] perf(files): polish parameter validation
