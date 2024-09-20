@@ -338,3 +338,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-19] perf(files): polish parameter validation
 - [2024-09-20] docs(exams): implement unit test assertion coverage
 - [2024-09-20] perf(database): reduce database change notification frequency
+- [2024-09-20] feat(exams): add exam countdown badge in days and hours
