@@ -340,3 +340,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-20] perf(database): reduce database change notification frequency
 - [2024-09-20] feat(exams): add exam countdown badge in days and hours
 - [2024-09-20] refactor(dashboard): implement type safety constraints
+- [2024-09-21] feat(viewers): enhance backup manifest validation
