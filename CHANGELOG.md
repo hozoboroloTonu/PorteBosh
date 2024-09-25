@@ -341,3 +341,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-20] feat(exams): add exam countdown badge in days and hours
 - [2024-09-20] refactor(dashboard): implement type safety constraints
 - [2024-09-21] feat(viewers): enhance backup manifest validation
+- [2024-09-25] refactor(calendar): refactor unit test assertion coverage
