@@ -342,3 +342,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-20] refactor(dashboard): implement type safety constraints
 - [2024-09-21] feat(viewers): enhance backup manifest validation
 - [2024-09-25] refactor(calendar): refactor unit test assertion coverage
+- [2024-09-26] chore(exams): fix error logging clarity
