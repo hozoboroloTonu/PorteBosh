@@ -344,3 +344,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-25] refactor(calendar): refactor unit test assertion coverage
 - [2024-09-26] chore(exams): fix error logging clarity
 - [2024-09-26] perf(files): adjust memory allocation efficiency
+- [2024-09-27] perf(dashboard): clean up narrow screen layout
