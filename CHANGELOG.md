@@ -346,3 +346,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-26] perf(files): adjust memory allocation efficiency
 - [2024-09-27] perf(dashboard): clean up narrow screen layout
 - [2024-09-27] perf(viewers): harden type safety constraints
+- [2024-09-28] chore(theme): clean up error logging clarity
