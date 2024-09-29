@@ -348,3 +348,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-27] perf(viewers): harden type safety constraints
 - [2024-09-28] chore(theme): clean up error logging clarity
 - [2024-09-29] test(notes): update time calculation edge cases
+- [2024-09-29] style(viewers): resolve issue in null check handling
