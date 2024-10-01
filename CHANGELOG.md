@@ -350,3 +350,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-09-29] test(notes): update time calculation edge cases
 - [2024-09-29] style(viewers): resolve issue in null check handling
 - [2024-09-30] refactor(files): isolate storage directory provider from repository
+- [2024-10-01] fix(backup): streamline narrow screen layout
