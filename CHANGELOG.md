@@ -355,3 +355,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-10-02] refactor(notes): clean up null check handling
 - [2024-10-04] feat(dashboard): display urgent assignments due within 48 hours
 - [2024-10-06] feat(viewers): expand tests for time calculation edge cases
+- [2024-10-07] perf(tasks): fix parameter validation
