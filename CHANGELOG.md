@@ -359,3 +359,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-10-08] refactor(core): streamline time calculation edge cases
 - [2024-10-08] refactor(notes): expand tests for stream subscription lifecycle
 - [2024-10-09] docs(files): harden backup manifest validation
+- [2024-10-09] chore(exams): improve narrow screen layout
