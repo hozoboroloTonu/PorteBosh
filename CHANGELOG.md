@@ -362,3 +362,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-10-09] chore(exams): improve narrow screen layout
 - [2024-10-09] docs(backup): update backup manifest validation
 - [2024-10-11] feat(files): implement file metadata model and repository
+- [2024-10-11] feat(files): implement main course files view and document link management
