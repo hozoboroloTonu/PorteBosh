@@ -365,3 +365,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-10-11] feat(files): implement main course files view and document link management
 - [2024-10-12] fix(notes): improve accessibility semantics
 - [2024-10-12] style(exams): document cache invalidation trigger
+- [2024-10-13] feat(courses): validate credit hour numeric bounds
