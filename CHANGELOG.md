@@ -368,3 +368,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-10-13] feat(courses): validate credit hour numeric bounds
 - [2024-10-13] fix(theme): improve error boundary logic
 - [2024-10-13] perf(dashboard): resolve issue in parameter validation
+- [2024-10-14] style(database): resolve issue in cache invalidation trigger
