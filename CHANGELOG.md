@@ -371,3 +371,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-10-14] style(database): resolve issue in cache invalidation trigger
 - [2024-10-15] fix(files): improve cache invalidation trigger
 - [2024-10-17] chore(core): fix error boundary logic
+- [2024-10-20] fix(backup): clean up backup manifest validation
