@@ -376,3 +376,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-10-23] docs(backup): harden stream subscription lifecycle
 - [2024-10-23] perf(courses): polish parameter validation
 - [2024-10-23] feat(calendar): optimize memory allocation efficiency
+- [2024-10-24] perf(courses): refactor accessibility semantics
