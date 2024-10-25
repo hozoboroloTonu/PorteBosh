@@ -378,3 +378,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-10-23] feat(calendar): optimize memory allocation efficiency
 - [2024-10-24] perf(courses): refactor accessibility semantics
 - [2024-10-25] fix(calendar): harden null check handling
+- [2024-10-25] refactor(viewers): polish accessibility semantics
