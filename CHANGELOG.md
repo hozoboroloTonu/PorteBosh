@@ -380,3 +380,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-10-25] fix(calendar): harden null check handling
 - [2024-10-25] refactor(viewers): polish accessibility semantics
 - [2024-10-27] fix(backup): enhance narrow screen layout
+- [2024-10-27] fix(notes): implement backup manifest validation
