@@ -385,3 +385,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-10-29] docs(database): refactor time calculation edge cases
 - [2024-10-30] style(courses): enhance unit test assertion coverage
 - [2024-10-30] chore(theme): fix unit test assertion coverage
+- [2024-10-31] feat(tasks): refactor null check handling
