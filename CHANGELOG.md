@@ -387,3 +387,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-10-30] chore(theme): fix unit test assertion coverage
 - [2024-10-31] feat(tasks): refactor null check handling
 - [2024-10-31] docs(routine): harden unit test assertion coverage
+- [2024-11-01] docs(calendar): refactor accessibility semantics
