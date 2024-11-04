@@ -393,3 +393,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-04] style(calendar): implement unit test assertion coverage
 - [2024-11-04] chore(courses): fix type safety constraints
 - [2024-11-04] chore(courses): expand tests for time calculation edge cases
+- [2024-11-04] perf(dashboard): streamline accessibility semantics
