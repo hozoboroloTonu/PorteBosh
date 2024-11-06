@@ -396,3 +396,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-04] perf(dashboard): streamline accessibility semantics
 - [2024-11-05] feat(viewers): implement distraction-free local PDF reader screen
 - [2024-11-05] feat(viewers): implement high-resolution local image viewer screen
+- [2024-11-06] feat(files): polish stream subscription lifecycle
