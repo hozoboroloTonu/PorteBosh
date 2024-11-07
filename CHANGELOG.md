@@ -398,3 +398,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-05] feat(viewers): implement high-resolution local image viewer screen
 - [2024-11-06] feat(files): polish stream subscription lifecycle
 - [2024-11-06] refactor(dashboard): enhance null check handling
+- [2024-11-07] fix(files): adjust stream subscription lifecycle
