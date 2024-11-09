@@ -402,3 +402,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-07] chore(backup): implement null check handling
 - [2024-11-08] refactor(routine): expand tests for time calculation edge cases
 - [2024-11-09] style(routine): refactor backup manifest validation
+- [2024-11-09] fix(core): enhance query index performance
