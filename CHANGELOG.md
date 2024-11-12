@@ -408,3 +408,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-11] test(backup): polish null check handling
 - [2024-11-12] perf(theme): harden query index performance
 - [2024-11-12] test(dashboard): expand tests for narrow screen layout
+- [2024-11-12] docs(core): enhance null check handling
