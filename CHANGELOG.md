@@ -406,3 +406,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-10] perf(notes): adjust memory allocation efficiency
 - [2024-11-11] feat(dashboard): expand tests for time calculation edge cases
 - [2024-11-11] test(backup): polish null check handling
+- [2024-11-12] perf(theme): harden query index performance
