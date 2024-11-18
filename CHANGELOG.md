@@ -412,3 +412,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-13] test(routine): enhance type safety constraints
 - [2024-11-15] fix(dashboard): document null check handling
 - [2024-11-17] style(tasks): refactor query index performance
+- [2024-11-18] feat(courses): optimize course list memory consumption
