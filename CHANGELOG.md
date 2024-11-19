@@ -414,3 +414,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-17] style(tasks): refactor query index performance
 - [2024-11-18] feat(courses): optimize course list memory consumption
 - [2024-11-18] docs(database): implement error logging clarity
+- [2024-11-19] feat(courses): harden backup manifest validation
