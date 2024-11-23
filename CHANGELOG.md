@@ -419,3 +419,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-22] style(core): update error boundary logic
 - [2024-11-22] docs(theme): streamline narrow screen layout
 - [2024-11-23] perf(database): use transactions for multi-record operations
+- [2024-11-23] refactor(viewers): resolve issue in memory allocation efficiency
