@@ -422,3 +422,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-23] refactor(viewers): resolve issue in memory allocation efficiency
 - [2024-11-25] feat(exams): update accessibility semantics
 - [2024-11-25] refactor(database): enhance error logging clarity
+- [2024-11-25] perf(backup): fix data transformation performance
