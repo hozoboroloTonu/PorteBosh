@@ -425,3 +425,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-25] perf(backup): fix data transformation performance
 - [2024-11-26] refactor(backup): polish data transformation performance
 - [2024-11-26] test(dashboard): expand tests for accessibility semantics
+- [2024-11-26] test(calendar): fix time calculation edge cases
