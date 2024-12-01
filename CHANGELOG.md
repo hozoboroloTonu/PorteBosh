@@ -429,3 +429,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-11-27] fix(database): refactor unit test assertion coverage
 - [2024-11-27] style(files): streamline error boundary logic
 - [2024-11-27] fix(viewers): refactor memory allocation efficiency
+- [2024-12-01] style(viewers): fix narrow screen layout
