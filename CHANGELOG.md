@@ -435,3 +435,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-12-06] feat(database): document data transformation performance
 - [2024-12-06] refactor(files): improve memory allocation efficiency
 - [2024-12-07] fix(database): improve type safety constraints
+- [2024-12-09] chore(database): document backup manifest validation
