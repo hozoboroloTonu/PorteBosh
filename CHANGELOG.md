@@ -438,3 +438,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-12-09] chore(database): document backup manifest validation
 - [2024-12-09] style(viewers): implement unit test assertion coverage
 - [2024-12-10] refactor(files): clean up error logging clarity
+- [2024-12-11] fix(database): fix parameter validation
