@@ -444,3 +444,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-12-14] fix(files): update unit test assertion coverage
 - [2024-12-15] style(courses): harden cache invalidation trigger
 - [2024-12-15] test(files): fix backup manifest validation
+- [2024-12-15] style(files): harden accessibility semantics
