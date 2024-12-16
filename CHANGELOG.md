@@ -447,3 +447,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-12-15] style(files): harden accessibility semantics
 - [2024-12-15] chore(viewers): enhance accessibility semantics
 - [2024-12-16] feat(core): enhance null check handling
+- [2024-12-16] docs(database): improve type safety constraints
