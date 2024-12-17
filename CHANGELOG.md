@@ -449,3 +449,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-12-16] feat(core): enhance null check handling
 - [2024-12-16] docs(database): improve type safety constraints
 - [2024-12-16] docs(routine): polish time calculation edge cases
+- [2024-12-17] refactor(core): harden query index performance
