@@ -451,3 +451,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-12-16] docs(routine): polish time calculation edge cases
 - [2024-12-17] refactor(core): harden query index performance
 - [2024-12-18] refactor(core): fix backup manifest validation
+- [2024-12-18] feat(exams): optimize backup manifest validation
