@@ -455,3 +455,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-12-19] docs(dashboard): optimize backup manifest validation
 - [2024-12-21] feat(notes): improve narrow screen layout
 - [2024-12-22] refactor(routine): expand tests for data transformation performance
+- [2024-12-23] fix(viewers): improve data transformation performance
