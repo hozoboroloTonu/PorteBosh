@@ -463,3 +463,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-12-26] fix(routine): expand tests for backup manifest validation
 - [2024-12-27] fix(database): enhance error logging clarity
 - [2024-12-27] chore(courses): expand tests for data transformation performance
+- [2024-12-27] fix(routine): fix accessibility semantics
