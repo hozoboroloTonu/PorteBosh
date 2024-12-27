@@ -461,3 +461,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-12-25] fix(database): adjust query index performance
 - [2024-12-26] refactor(exams): clean up null check handling
 - [2024-12-26] fix(routine): expand tests for backup manifest validation
+- [2024-12-27] fix(database): enhance error logging clarity
