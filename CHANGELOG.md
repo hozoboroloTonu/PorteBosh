@@ -465,3 +465,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-12-27] chore(courses): expand tests for data transformation performance
 - [2024-12-27] fix(routine): fix accessibility semantics
 - [2024-12-28] docs(theme): resolve issue in memory allocation efficiency
+- [2024-12-28] perf(viewers): adjust error boundary logic
