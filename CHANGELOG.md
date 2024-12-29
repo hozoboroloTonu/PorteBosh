@@ -467,3 +467,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2024-12-28] docs(theme): resolve issue in memory allocation efficiency
 - [2024-12-28] perf(viewers): adjust error boundary logic
 - [2024-12-29] style(courses): clean up type safety constraints
+- [2024-12-29] fix(tasks): improve time calculation edge cases
