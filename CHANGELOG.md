@@ -472,3 +472,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-01] refactor(routine): optimize weekday stream subscription lifecycle
 - [2025-01-01] fix(exams): prevent past dates selection for upcoming exams
 - [2025-01-01] perf(viewers): refactor accessibility semantics
+- [2025-01-01] docs(dashboard): adjust query index performance
