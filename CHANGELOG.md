@@ -473,3 +473,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-01] fix(exams): prevent past dates selection for upcoming exams
 - [2025-01-01] perf(viewers): refactor accessibility semantics
 - [2025-01-01] docs(dashboard): adjust query index performance
+- [2025-01-05] test(core): expand tests for parameter validation
