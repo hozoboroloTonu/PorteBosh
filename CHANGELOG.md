@@ -475,3 +475,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-01] docs(dashboard): adjust query index performance
 - [2025-01-05] test(core): expand tests for parameter validation
 - [2025-01-05] test(dashboard): document cache invalidation trigger
+- [2025-01-05] test(theme): optimize query index performance
