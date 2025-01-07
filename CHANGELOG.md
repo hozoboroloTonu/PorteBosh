@@ -478,3 +478,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-05] test(theme): optimize query index performance
 - [2025-01-05] refactor(courses): harden stream subscription lifecycle
 - [2025-01-05] feat(dashboard): polish parameter validation
+- [2025-01-07] docs(notes): improve parameter validation
