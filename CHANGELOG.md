@@ -479,3 +479,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-05] refactor(courses): harden stream subscription lifecycle
 - [2025-01-05] feat(dashboard): polish parameter validation
 - [2025-01-07] docs(notes): improve parameter validation
+- [2025-01-08] feat(notes): add local note title and body search
