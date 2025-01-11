@@ -484,3 +484,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-10] chore(theme): streamline backup manifest validation
 - [2025-01-11] fix(routine): polish null check handling
 - [2025-01-11] perf(backup): polish backup manifest validation
+- [2025-01-11] chore: format codebase with standard dart formatter
