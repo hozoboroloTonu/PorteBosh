@@ -487,3 +487,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-11] chore: format codebase with standard dart formatter
 - [2025-01-11] refactor(calendar): resolve issue in backup manifest validation
 - [2025-01-12] chore(core): document cache invalidation trigger
+- [2025-01-13] fix(theme): streamline error logging clarity
