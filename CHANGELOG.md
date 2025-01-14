@@ -495,3 +495,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-14] docs(courses): improve backup manifest validation
 - [2025-01-14] test(courses): polish null check handling
 - [2025-01-14] fix(dashboard): adjust data transformation performance
+- [2025-01-14] refactor(notes): optimize type safety constraints
