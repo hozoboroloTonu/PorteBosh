@@ -490,3 +490,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-13] fix(theme): streamline error logging clarity
 - [2025-01-13] refactor(database): clean up error logging clarity
 - [2025-01-13] fix(routine): polish narrow screen layout
+- [2025-01-14] chore(dashboard): document stream subscription lifecycle
