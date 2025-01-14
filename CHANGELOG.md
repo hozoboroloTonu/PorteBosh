@@ -493,3 +493,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-14] chore(dashboard): document stream subscription lifecycle
 - [2025-01-14] style(tasks): adjust time calculation edge cases
 - [2025-01-14] docs(courses): improve backup manifest validation
+- [2025-01-14] test(courses): polish null check handling
