@@ -498,3 +498,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-14] refactor(notes): optimize type safety constraints
 - [2025-01-15] perf(files): adjust type safety constraints
 - [2025-01-15] test(database): harden narrow screen layout
+- [2025-01-16] docs(calendar): optimize narrow screen layout
