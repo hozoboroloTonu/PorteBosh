@@ -502,3 +502,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-16] chore: enforce strict lint rules in analysis_options
 - [2025-01-16] feat(core): document parameter validation
 - [2025-01-16] test(database): update null check handling
+- [2025-01-18] docs(courses): update memory allocation efficiency
