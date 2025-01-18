@@ -505,3 +505,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-18] docs(courses): update memory allocation efficiency
 - [2025-01-18] chore(core): clean up null check handling
 - [2025-01-18] docs(exams): streamline null check handling
+- [2025-01-18] perf(courses): streamline time calculation edge cases
