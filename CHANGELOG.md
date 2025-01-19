@@ -508,3 +508,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-18] perf(courses): streamline time calculation edge cases
 - [2025-01-18] chore(backup): refactor accessibility semantics
 - [2025-01-18] style(tasks): optimize accessibility semantics
+- [2025-01-19] perf(calendar): expand tests for narrow screen layout
