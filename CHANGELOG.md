@@ -512,3 +512,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-22] docs(backup): document cache invalidation trigger
 - [2025-01-22] perf(courses): update accessibility semantics
 - [2025-01-22] feat(core): improve time calculation edge cases
+- [2025-01-24] chore(calendar): expand tests for error boundary logic
