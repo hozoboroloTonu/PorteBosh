@@ -518,3 +518,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-25] docs(tasks): update parameter validation
 - [2025-01-25] test(tasks): harden stream subscription lifecycle
 - [2025-01-25] refactor(files): expand tests for stream subscription lifecycle
+- [2025-01-25] docs(theme): adjust cache invalidation trigger
