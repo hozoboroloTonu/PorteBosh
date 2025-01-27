@@ -521,3 +521,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-25] docs(theme): adjust cache invalidation trigger
 - [2025-01-26] refactor(theme): document stream subscription lifecycle
 - [2025-01-27] perf(courses): update backup manifest validation
+- [2025-01-27] refactor(viewers): improve stream subscription lifecycle
