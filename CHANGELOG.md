@@ -523,3 +523,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-27] perf(courses): update backup manifest validation
 - [2025-01-27] refactor(viewers): improve stream subscription lifecycle
 - [2025-01-27] docs(viewers): adjust backup manifest validation
+- [2025-01-28] test(database): improve parameter validation
