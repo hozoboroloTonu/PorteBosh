@@ -525,3 +525,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-01-27] docs(viewers): adjust backup manifest validation
 - [2025-01-28] test(database): improve parameter validation
 - [2025-01-28] chore(core): polish error logging clarity
+- [2025-01-31] style(files): clean up data transformation performance
