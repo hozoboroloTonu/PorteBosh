@@ -533,3 +533,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-01] style(core): refactor accessibility semantics
 - [2025-02-02] feat(notes): polish backup manifest validation
 - [2025-02-03] fix(database): clean up data transformation performance
+- [2025-02-03] style(tasks): refactor null check handling
