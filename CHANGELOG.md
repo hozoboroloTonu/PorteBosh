@@ -535,3 +535,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-03] fix(database): clean up data transformation performance
 - [2025-02-03] style(tasks): refactor null check handling
 - [2025-02-05] test(backup): fix unit test assertion coverage
+- [2025-02-05] style(database): update parameter validation
