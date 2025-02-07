@@ -538,3 +538,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-05] style(database): update parameter validation
 - [2025-02-07] style(exams): document data transformation performance
 - [2025-02-07] docs(database): polish error logging clarity
+- [2025-02-07] style(backup): fix error logging clarity
