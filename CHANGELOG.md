@@ -540,3 +540,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-07] docs(database): polish error logging clarity
 - [2025-02-07] style(backup): fix error logging clarity
 - [2025-02-08] docs(files): adjust cache invalidation trigger
+- [2025-02-08] fix(core): adjust parameter validation
