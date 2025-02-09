@@ -543,3 +543,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-08] fix(core): adjust parameter validation
 - [2025-02-08] perf(viewers): adjust stream subscription lifecycle
 - [2025-02-09] perf(courses): optimize data transformation performance
+- [2025-02-09] refactor(dashboard): expand tests for error boundary logic
