@@ -546,3 +546,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-09] refactor(dashboard): expand tests for error boundary logic
 - [2025-02-09] fix(courses): clean up narrow screen layout
 - [2025-02-10] style(core): streamline error logging clarity
+- [2025-02-10] feat(routine): document null check handling
