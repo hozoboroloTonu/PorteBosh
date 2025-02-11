@@ -548,3 +548,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-10] style(core): streamline error logging clarity
 - [2025-02-10] feat(routine): document null check handling
 - [2025-02-10] fix(calendar): improve error logging clarity
+- [2025-02-11] perf(routine): document error boundary logic
