@@ -553,3 +553,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-12] feat(assignments): implement assignments model, repository, and task screen
 - [2025-02-12] style(routine): streamline accessibility semantics
 - [2025-02-12] refactor(core): refactor type safety constraints
+- [2025-02-12] refactor(dashboard): streamline null check handling
