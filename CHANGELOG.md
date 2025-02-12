@@ -551,3 +551,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-11] perf(routine): document error boundary logic
 - [2025-02-11] fix(viewers): correct PDF zoom aspect ratio on rotation
 - [2025-02-12] feat(assignments): implement assignments model, repository, and task screen
+- [2025-02-12] style(routine): streamline accessibility semantics
