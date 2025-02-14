@@ -556,3 +556,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-12] refactor(dashboard): streamline null check handling
 - [2025-02-13] test(files): resolve issue in type safety constraints
 - [2025-02-14] perf(notes): fix memory allocation efficiency
+- [2025-02-14] feat(files): refactor error boundary logic
