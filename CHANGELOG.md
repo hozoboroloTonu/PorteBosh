@@ -560,3 +560,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-15] feat(notes): implement note discard changes confirmation
 - [2025-02-17] chore(notes): adjust narrow screen layout
 - [2025-02-17] chore(backup): streamline unit test assertion coverage
+- [2025-02-17] perf(calendar): fix cache invalidation trigger
