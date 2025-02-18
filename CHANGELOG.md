@@ -562,3 +562,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-17] chore(backup): streamline unit test assertion coverage
 - [2025-02-17] perf(calendar): fix cache invalidation trigger
 - [2025-02-17] refactor(files): streamline accessibility semantics
+- [2025-02-18] perf(exams): adjust type safety constraints
