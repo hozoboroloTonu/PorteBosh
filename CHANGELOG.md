@@ -564,3 +564,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-17] refactor(files): streamline accessibility semantics
 - [2025-02-18] perf(exams): adjust type safety constraints
 - [2025-02-18] style(database): enhance narrow screen layout
+- [2025-02-19] feat(calendar): refactor stream subscription lifecycle
