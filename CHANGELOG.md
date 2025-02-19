@@ -566,3 +566,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-18] style(database): enhance narrow screen layout
 - [2025-02-19] feat(calendar): refactor stream subscription lifecycle
 - [2025-02-19] docs(database): clean up query index performance
+- [2025-02-19] feat(routine): harden error boundary logic
