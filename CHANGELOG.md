@@ -569,3 +569,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-19] feat(routine): harden error boundary logic
 - [2025-02-19] test(backup): fix cache invalidation trigger
 - [2025-02-19] perf(routine): streamline time calculation edge cases
+- [2025-02-20] test(files): document backup manifest validation
