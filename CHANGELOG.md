@@ -572,3 +572,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-20] test(files): document backup manifest validation
 - [2025-02-26] chore(backup): improve type safety constraints
 - [2025-02-26] style(exams): adjust backup manifest validation
+- [2025-02-26] chore(routine): optimize parameter validation
