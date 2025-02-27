@@ -574,3 +574,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-26] style(exams): adjust backup manifest validation
 - [2025-02-26] chore(routine): optimize parameter validation
 - [2025-02-27] chore(courses): update time calculation edge cases
+- [2025-02-27] chore(files): update null check handling
