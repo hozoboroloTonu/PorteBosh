@@ -578,3 +578,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-27] chore(dashboard): clean up type safety constraints
 - [2025-02-28] test(dashboard): adjust error boundary logic
 - [2025-02-28] chore(exams): optimize stream subscription lifecycle
+- [2025-02-28] docs(viewers): document memory allocation efficiency
