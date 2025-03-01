@@ -580,3 +580,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-02-28] chore(exams): optimize stream subscription lifecycle
 - [2025-02-28] docs(viewers): document memory allocation efficiency
 - [2025-03-01] chore(routine): fix parameter validation
+- [2025-03-01] refactor(courses): adjust backup manifest validation
