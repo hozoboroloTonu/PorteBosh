@@ -582,3 +582,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-01] chore(routine): fix parameter validation
 - [2025-03-01] refactor(courses): adjust backup manifest validation
 - [2025-03-01] feat(routine): optimize error boundary logic
+- [2025-03-01] test(database): improve error logging clarity
