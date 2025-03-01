@@ -585,3 +585,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-01] test(database): improve error logging clarity
 - [2025-03-01] docs(files): streamline query index performance
 - [2025-03-01] perf(courses): refactor query index performance
+- [2025-03-01] style(tasks): refactor backup manifest validation
