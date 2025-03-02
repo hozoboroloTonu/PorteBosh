@@ -588,3 +588,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-01] style(tasks): refactor backup manifest validation
 - [2025-03-02] fix(tasks): expand tests for time calculation edge cases
 - [2025-03-02] docs(theme): optimize cache invalidation trigger
+- [2025-03-02] fix(exams): resolve issue in memory allocation efficiency
