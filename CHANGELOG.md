@@ -592,3 +592,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-02] refactor(routine): expand tests for type safety constraints
 - [2025-03-03] refactor(routine): polish parameter validation
 - [2025-03-03] test(routine): polish null check handling
+- [2025-03-04] feat(tasks): enhance query index performance
