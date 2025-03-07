@@ -594,3 +594,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-03] test(routine): polish null check handling
 - [2025-03-04] feat(tasks): enhance query index performance
 - [2025-03-06] docs(files): document query index performance
+- [2025-03-07] docs(calendar): improve stream subscription lifecycle
