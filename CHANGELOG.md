@@ -598,3 +598,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-07] fix(backup): clean up unit test assertion coverage
 - [2025-03-08] refactor(database): optimize data transformation performance
 - [2025-03-08] fix(files): expand tests for time calculation edge cases
+- [2025-03-08] fix(tasks): fix accessibility semantics
