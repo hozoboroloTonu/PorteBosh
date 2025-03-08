@@ -596,3 +596,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-06] docs(files): document query index performance
 - [2025-03-07] docs(calendar): improve stream subscription lifecycle
 - [2025-03-07] fix(backup): clean up unit test assertion coverage
+- [2025-03-08] refactor(database): optimize data transformation performance
