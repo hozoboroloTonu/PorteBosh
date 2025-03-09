@@ -602,3 +602,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-09] fix(backup): handle low disk space during backup extraction
 - [2025-03-09] style(backup): document memory allocation efficiency
 - [2025-03-09] perf(courses): document unit test assertion coverage
+- [2025-03-09] refactor(courses): enhance cache invalidation trigger
