@@ -605,3 +605,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-09] refactor(courses): enhance cache invalidation trigger
 - [2025-03-10] test(dashboard): harden backup manifest validation
 - [2025-03-10] style(viewers): fix data transformation performance
+- [2025-03-10] docs(viewers): refactor error boundary logic
