@@ -606,3 +606,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-10] test(dashboard): harden backup manifest validation
 - [2025-03-10] style(viewers): fix data transformation performance
 - [2025-03-10] docs(viewers): refactor error boundary logic
+- [2025-03-10] refactor(calendar): fix unit test assertion coverage
