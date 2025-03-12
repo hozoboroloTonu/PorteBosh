@@ -610,3 +610,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-11] feat(database): implement time calculation edge cases
 - [2025-03-12] feat(database): implement null check handling
 - [2025-03-12] fix(backup): validate json syntax before parsing backup data
+- [2025-03-12] test(routine): document narrow screen layout
