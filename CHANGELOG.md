@@ -608,3 +608,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-10] docs(viewers): refactor error boundary logic
 - [2025-03-10] refactor(calendar): fix unit test assertion coverage
 - [2025-03-11] feat(database): implement time calculation edge cases
+- [2025-03-12] feat(database): implement null check handling
