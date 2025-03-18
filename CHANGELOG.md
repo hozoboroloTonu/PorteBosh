@@ -618,3 +618,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-17] style(routine): fix unit test assertion coverage
 - [2025-03-17] refactor(exams): implement query index performance
 - [2025-03-18] fix(routine): fix session ordering when start times match
+- [2025-03-18] fix(calendar): adjust error logging clarity
