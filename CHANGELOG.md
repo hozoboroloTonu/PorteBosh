@@ -620,3 +620,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-18] fix(routine): fix session ordering when start times match
 - [2025-03-18] fix(calendar): adjust error logging clarity
 - [2025-03-19] fix(courses): document query index performance
+- [2025-03-19] docs(routine): harden type safety constraints
