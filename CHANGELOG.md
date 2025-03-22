@@ -625,3 +625,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-20] docs(core): optimize type safety constraints
 - [2025-03-20] style(core): improve time calculation edge cases
 - [2025-03-20] docs(core): refactor error logging clarity
+- [2025-03-22] test(exams): document backup manifest validation
