@@ -631,3 +631,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-27] docs(files): improve error logging clarity
 - [2025-03-27] chore(database): optimize narrow screen layout
 - [2025-03-27] test(routine): resolve issue in data transformation performance
+- [2025-03-27] refactor(notes): refactor error logging clarity
