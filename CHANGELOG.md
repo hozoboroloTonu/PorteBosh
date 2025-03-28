@@ -635,3 +635,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-27] style(calendar): adjust stream subscription lifecycle
 - [2025-03-27] fix(calendar): update error logging clarity
 - [2025-03-28] docs(courses): enhance stream subscription lifecycle
+- [2025-03-28] style(database): implement query index performance
