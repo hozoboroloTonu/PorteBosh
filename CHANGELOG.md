@@ -637,3 +637,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-28] docs(courses): enhance stream subscription lifecycle
 - [2025-03-28] style(database): implement query index performance
 - [2025-03-28] chore(database): optimize memory allocation efficiency
+- [2025-03-28] feat(courses): update query index performance
