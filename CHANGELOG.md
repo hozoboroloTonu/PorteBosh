@@ -639,3 +639,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-28] chore(database): optimize memory allocation efficiency
 - [2025-03-28] feat(courses): update query index performance
 - [2025-03-29] test(notes): polish narrow screen layout
+- [2025-03-29] chore(routine): polish stream subscription lifecycle
