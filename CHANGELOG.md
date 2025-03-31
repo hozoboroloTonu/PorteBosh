@@ -641,3 +641,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-03-29] test(notes): polish narrow screen layout
 - [2025-03-29] chore(routine): polish stream subscription lifecycle
 - [2025-03-30] perf(tasks): implement memory allocation efficiency
+- [2025-03-31] fix(tasks): adjust backup manifest validation
