@@ -645,3 +645,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-02] docs(viewers): optimize unit test assertion coverage
 - [2025-04-02] refactor(theme): fix stream subscription lifecycle
 - [2025-04-03] fix(viewers): optimize narrow screen layout
+- [2025-04-05] perf(routine): optimize type safety constraints
