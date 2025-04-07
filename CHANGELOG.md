@@ -649,3 +649,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-06] docs(backup): fix narrow screen layout
 - [2025-04-06] fix(dashboard): streamline time calculation edge cases
 - [2025-04-07] docs(calendar): enhance cache invalidation trigger
+- [2025-04-07] test(backup): streamline parameter validation
