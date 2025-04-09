@@ -652,3 +652,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-07] test(backup): streamline parameter validation
 - [2025-04-07] style(routine): improve parameter validation
 - [2025-04-08] fix(backup): refactor parameter validation
+- [2025-04-09] docs(database): fix error boundary logic
