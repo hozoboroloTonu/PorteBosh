@@ -662,3 +662,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-10] docs(backup): polish backup manifest validation
 - [2025-04-11] perf(calendar): optimize parameter validation
 - [2025-04-11] docs(exams): update narrow screen layout
+- [2025-04-12] fix(courses): refactor accessibility semantics
