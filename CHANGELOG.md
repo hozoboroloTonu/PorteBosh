@@ -665,3 +665,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-12] fix(courses): refactor accessibility semantics
 - [2025-04-13] chore(files): resolve issue in error boundary logic
 - [2025-04-13] feat(dashboard): adjust parameter validation
+- [2025-04-13] perf(database): optimize stream subscription lifecycle
