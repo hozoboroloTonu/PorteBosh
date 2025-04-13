@@ -663,3 +663,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-11] perf(calendar): optimize parameter validation
 - [2025-04-11] docs(exams): update narrow screen layout
 - [2025-04-12] fix(courses): refactor accessibility semantics
+- [2025-04-13] chore(files): resolve issue in error boundary logic
