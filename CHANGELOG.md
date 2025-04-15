@@ -668,3 +668,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-13] perf(database): optimize stream subscription lifecycle
 - [2025-04-13] fix(viewers): fix cache invalidation trigger
 - [2025-04-15] perf(theme): optimize type safety constraints
+- [2025-04-15] perf(backup): optimize data transformation performance
