@@ -670,3 +670,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-15] perf(theme): optimize type safety constraints
 - [2025-04-15] perf(backup): optimize data transformation performance
 - [2025-04-15] feat(backup): harden error boundary logic
+- [2025-04-16] fix(core): clean up time calculation edge cases
