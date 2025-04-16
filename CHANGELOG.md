@@ -672,3 +672,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-15] feat(backup): harden error boundary logic
 - [2025-04-16] fix(core): clean up time calculation edge cases
 - [2025-04-16] docs(database): clean up time calculation edge cases
+- [2025-04-16] feat(viewers): handle corrupt PDF document error display
