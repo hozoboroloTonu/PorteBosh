@@ -675,3 +675,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-16] feat(viewers): handle corrupt PDF document error display
 - [2025-04-18] docs(courses): streamline unit test assertion coverage
 - [2025-04-18] test(files): adjust parameter validation
+- [2025-04-18] refactor(courses): extract course card to independent widget
