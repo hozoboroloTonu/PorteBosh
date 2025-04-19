@@ -678,3 +678,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-18] refactor(courses): extract course card to independent widget
 - [2025-04-19] docs(files): clean up memory allocation efficiency
 - [2025-04-19] chore(tasks): improve stream subscription lifecycle
+- [2025-04-19] test(unit): add tests for relative date label formatting
