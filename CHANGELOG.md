@@ -681,3 +681,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-19] test(unit): add tests for relative date label formatting
 - [2025-04-21] refactor(theme): streamline time calculation edge cases
 - [2025-04-21] fix(calendar): document unit test assertion coverage
+- [2025-04-21] test(courses): polish cache invalidation trigger
