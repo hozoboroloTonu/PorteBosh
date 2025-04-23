@@ -686,3 +686,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-22] feat(backup): resolve issue in backup manifest validation
 - [2025-04-22] feat(backup): enhance unit test assertion coverage
 - [2025-04-22] chore(core): harden parameter validation
+- [2025-04-23] docs(backup): expand tests for error logging clarity
