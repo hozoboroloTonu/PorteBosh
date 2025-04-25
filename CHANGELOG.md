@@ -689,3 +689,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-23] docs(backup): expand tests for error logging clarity
 - [2025-04-23] style(routine): document parameter validation
 - [2025-04-25] chore(exams): document error logging clarity
+- [2025-04-25] fix(notes): fix type safety constraints
