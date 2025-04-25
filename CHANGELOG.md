@@ -692,3 +692,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-25] fix(notes): fix type safety constraints
 - [2025-04-25] style(courses): streamline query index performance
 - [2025-04-25] test(dashboard): implement narrow screen layout
+- [2025-04-25] refactor(routine): adjust cache invalidation trigger
