@@ -694,3 +694,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-25] test(dashboard): implement narrow screen layout
 - [2025-04-25] refactor(routine): adjust cache invalidation trigger
 - [2025-04-26] docs(calendar): refactor unit test assertion coverage
+- [2025-04-26] feat(dashboard): enhance cache invalidation trigger
