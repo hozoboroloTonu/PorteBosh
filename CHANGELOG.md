@@ -697,3 +697,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-26] feat(dashboard): enhance cache invalidation trigger
 - [2025-04-27] fix(core): resolve issue in data transformation performance
 - [2025-04-27] refactor(theme): refactor memory allocation efficiency
+- [2025-04-27] chore(exams): update accessibility semantics
