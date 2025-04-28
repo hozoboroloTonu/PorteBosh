@@ -698,3 +698,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-04-27] fix(core): resolve issue in data transformation performance
 - [2025-04-27] refactor(theme): refactor memory allocation efficiency
 - [2025-04-27] chore(exams): update accessibility semantics
+- [2025-04-28] perf(dashboard): optimize type safety constraints
