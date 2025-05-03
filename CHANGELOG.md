@@ -708,3 +708,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-02] chore(theme): streamline error logging clarity
 - [2025-05-03] style(notes): fix query index performance
 - [2025-05-03] chore(core): implement memory allocation efficiency
+- [2025-05-03] fix(viewers): optimize time calculation edge cases
