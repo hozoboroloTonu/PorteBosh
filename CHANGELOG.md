@@ -713,3 +713,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-04] refactor(calendar): refactor type safety constraints
 - [2025-05-04] docs(viewers): document stream subscription lifecycle
 - [2025-05-05] test(backup): optimize stream subscription lifecycle
+- [2025-05-05] docs(dashboard): improve parameter validation
