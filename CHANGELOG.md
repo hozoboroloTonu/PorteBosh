@@ -716,3 +716,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-05] docs(dashboard): improve parameter validation
 - [2025-05-06] perf(dashboard): lazy load dashboard secondary cards
 - [2025-05-08] feat(notes): optimize unit test assertion coverage
+- [2025-05-08] style(backup): polish error logging clarity
