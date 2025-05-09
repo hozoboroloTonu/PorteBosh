@@ -719,3 +719,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-08] style(backup): polish error logging clarity
 - [2025-05-09] chore(courses): expand tests for data transformation performance
 - [2025-05-09] refactor(files): polish stream subscription lifecycle
+- [2025-05-09] perf(backup): harden memory allocation efficiency
