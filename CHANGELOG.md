@@ -725,3 +725,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-10] feat(calendar): implement unified academic agenda combining routines and events
 - [2025-05-10] fix(exams): fix error logging clarity
 - [2025-05-10] style(files): improve query index performance
+- [2025-05-10] perf(dashboard): improve cache invalidation trigger
