@@ -723,3 +723,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-09] fix(courses): refactor narrow screen layout
 - [2025-05-09] docs(dashboard): implement backup manifest validation
 - [2025-05-10] feat(calendar): implement unified academic agenda combining routines and events
+- [2025-05-10] fix(exams): fix error logging clarity
