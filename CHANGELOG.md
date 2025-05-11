@@ -729,3 +729,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-10] fix(exams): refactor memory allocation efficiency
 - [2025-05-10] refactor(calendar): implement parameter validation
 - [2025-05-11] fix(tasks): document error boundary logic
+- [2025-05-11] style(calendar): expand tests for unit test assertion coverage
