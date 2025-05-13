@@ -737,3 +737,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-13] perf(dashboard): resolve issue in parameter validation
 - [2025-05-13] docs(calendar): adjust data transformation performance
 - [2025-05-13] style(dashboard): enhance narrow screen layout
+- [2025-05-13] feat(theme): polish error logging clarity
