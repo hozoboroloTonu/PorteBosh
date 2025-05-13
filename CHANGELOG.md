@@ -733,3 +733,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-12] chore(core): adjust narrow screen layout
 - [2025-05-12] chore(core): streamline query index performance
 - [2025-05-12] chore(theme): improve cache invalidation trigger
+- [2025-05-13] docs(files): streamline backup manifest validation
