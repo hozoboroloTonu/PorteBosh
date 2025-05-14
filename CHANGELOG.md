@@ -744,3 +744,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-14] feat(tasks): refactor data transformation performance
 - [2025-05-14] feat(courses): adjust type safety constraints
 - [2025-05-14] style(tasks): document narrow screen layout
+- [2025-05-14] docs(backup): refactor null check handling
