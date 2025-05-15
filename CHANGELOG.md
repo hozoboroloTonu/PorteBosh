@@ -749,3 +749,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-15] chore(backup): clean up accessibility semantics
 - [2025-05-15] style(backup): resolve issue in cache invalidation trigger
 - [2025-05-15] docs(courses): refactor parameter validation
+- [2025-05-15] refactor(database): implement stream subscription lifecycle
