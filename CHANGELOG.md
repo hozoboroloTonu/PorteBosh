@@ -746,3 +746,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-14] style(tasks): document narrow screen layout
 - [2025-05-14] docs(backup): refactor null check handling
 - [2025-05-14] perf(database): improve parameter validation
+- [2025-05-15] chore(backup): clean up accessibility semantics
