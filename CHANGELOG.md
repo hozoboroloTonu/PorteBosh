@@ -752,3 +752,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-15] refactor(database): implement stream subscription lifecycle
 - [2025-05-16] perf(database): harden data transformation performance
 - [2025-05-16] style(exams): enhance type safety constraints
+- [2025-05-16] fix(courses): fix course card color stripe clipping
