@@ -758,3 +758,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-17] test(files): optimize accessibility semantics
 - [2025-05-17] perf(dashboard): streamline type safety constraints
 - [2025-05-17] chore(routine): refactor backup manifest validation
+- [2025-05-17] chore(routine): resolve issue in narrow screen layout
