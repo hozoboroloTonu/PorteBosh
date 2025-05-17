@@ -754,3 +754,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-16] style(exams): enhance type safety constraints
 - [2025-05-16] fix(courses): fix course card color stripe clipping
 - [2025-05-16] refactor(theme): clean up memory allocation efficiency
+- [2025-05-17] chore(theme): fix cache invalidation trigger
