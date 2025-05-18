@@ -761,3 +761,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-17] chore(routine): resolve issue in narrow screen layout
 - [2025-05-17] docs(database): fix null check handling
 - [2025-05-17] test(tasks): improve narrow screen layout
+- [2025-05-18] test(calendar): document error boundary logic
