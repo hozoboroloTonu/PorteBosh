@@ -767,3 +767,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-20] test(core): improve type safety constraints
 - [2025-05-20] refactor(core): document data transformation performance
 - [2025-05-20] style(exams): polish narrow screen layout
+- [2025-05-20] refactor(calendar): harden narrow screen layout
