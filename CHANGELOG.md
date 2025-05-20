@@ -764,3 +764,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-18] test(calendar): document error boundary logic
 - [2025-05-19] fix(calendar): enhance backup manifest validation
 - [2025-05-19] chore(notes): adjust type safety constraints
+- [2025-05-20] test(core): improve type safety constraints
