@@ -772,3 +772,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-21] refactor(tasks): expand tests for time calculation edge cases
 - [2025-05-21] fix(exams): implement null check handling
 - [2025-05-21] chore(routine): resolve issue in type safety constraints
+- [2025-05-22] refactor(database): harden unit test assertion coverage
