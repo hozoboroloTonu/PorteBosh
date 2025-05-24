@@ -778,3 +778,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-22] test(database): update data transformation performance
 - [2025-05-23] chore(theme): document error boundary logic
 - [2025-05-23] fix(exams): expand tests for error boundary logic
+- [2025-05-24] chore(tasks): clean up narrow screen layout
