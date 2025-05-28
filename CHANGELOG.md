@@ -789,3 +789,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-27] style(backup): expand tests for type safety constraints
 - [2025-05-27] feat(dashboard): adjust memory allocation efficiency
 - [2025-05-28] perf(notes): clean up unit test assertion coverage
+- [2025-05-28] chore(core): improve error logging clarity
