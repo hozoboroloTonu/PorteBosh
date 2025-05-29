@@ -791,3 +791,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-28] perf(notes): clean up unit test assertion coverage
 - [2025-05-28] chore(core): improve error logging clarity
 - [2025-05-29] refactor(routine): refactor parameter validation
+- [2025-05-29] refactor(viewers): streamline time calculation edge cases
