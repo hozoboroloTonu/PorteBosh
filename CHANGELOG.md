@@ -794,3 +794,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-29] refactor(viewers): streamline time calculation edge cases
 - [2025-05-29] fix(files): optimize narrow screen layout
 - [2025-05-30] fix(courses): fix memory allocation efficiency
+- [2025-05-30] refactor(viewers): harden unit test assertion coverage
