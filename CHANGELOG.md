@@ -796,3 +796,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-30] fix(courses): fix memory allocation efficiency
 - [2025-05-30] refactor(viewers): harden unit test assertion coverage
 - [2025-05-30] perf(dashboard): optimize query index performance
+- [2025-05-30] style(routine): enhance cache invalidation trigger
