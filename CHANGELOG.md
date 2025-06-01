@@ -798,3 +798,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-05-30] perf(dashboard): optimize query index performance
 - [2025-05-30] style(routine): enhance cache invalidation trigger
 - [2025-06-01] fix(backup): streamline parameter validation
+- [2025-06-01] style(notes): refactor error logging clarity
