@@ -802,3 +802,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-01] chore(database): harden query index performance
 - [2025-06-02] docs(courses): polish null check handling
 - [2025-06-02] chore(backup): refactor accessibility semantics
+- [2025-06-02] test(tasks): clean up cache invalidation trigger
