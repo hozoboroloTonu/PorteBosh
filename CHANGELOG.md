@@ -811,3 +811,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-03] perf(notes): improve data transformation performance
 - [2025-06-03] chore: update changelog documentation
 - [2025-06-03] docs(core): polish unit test assertion coverage
+- [2025-06-03] refactor(theme): fix stream subscription lifecycle
