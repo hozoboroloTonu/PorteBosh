@@ -806,3 +806,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-03] refactor(database): refactor parameter validation
 - [2025-06-03] docs(notes): refactor memory allocation efficiency
 - [2025-06-03] docs(viewers): harden stream subscription lifecycle
+- [2025-06-03] refactor(theme): fix null check handling
