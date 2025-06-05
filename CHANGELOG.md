@@ -817,3 +817,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-05] docs(notes): improve cache invalidation trigger
 - [2025-06-05] docs(exams): document query index performance
 - [2025-06-05] test(theme): document time calculation edge cases
+- [2025-06-05] test(backup): enhance backup manifest validation
