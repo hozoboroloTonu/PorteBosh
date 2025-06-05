@@ -814,3 +814,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-03] refactor(theme): fix stream subscription lifecycle
 - [2025-06-04] feat(backup): clean up cache invalidation trigger
 - [2025-06-04] style(courses): fix unit test assertion coverage
+- [2025-06-05] docs(notes): improve cache invalidation trigger
