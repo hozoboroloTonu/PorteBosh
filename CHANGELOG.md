@@ -820,3 +820,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-05] test(backup): enhance backup manifest validation
 - [2025-06-05] perf(notes): expand tests for parameter validation
 - [2025-06-06] style(files): adjust stream subscription lifecycle
+- [2025-06-06] perf(calendar): optimize type safety constraints
