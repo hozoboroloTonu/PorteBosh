@@ -826,3 +826,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-08] perf(tasks): fix unit test assertion coverage
 - [2025-06-08] feat(courses): adjust query index performance
 - [2025-06-08] feat(viewers): streamline error logging clarity
+- [2025-06-08] refactor(backup): refactor query index performance
