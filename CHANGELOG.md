@@ -829,3 +829,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-08] refactor(backup): refactor query index performance
 - [2025-06-08] chore(calendar): optimize cache invalidation trigger
 - [2025-06-09] docs(routine): improve narrow screen layout
+- [2025-06-09] test(exams): optimize cache invalidation trigger
