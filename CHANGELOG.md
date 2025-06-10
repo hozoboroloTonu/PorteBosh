@@ -833,3 +833,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-09] feat(notes): fix type safety constraints
 - [2025-06-09] chore(exams): fix error logging clarity
 - [2025-06-09] feat(tasks): implement time calculation edge cases
+- [2025-06-10] fix(calendar): fix narrow screen layout
