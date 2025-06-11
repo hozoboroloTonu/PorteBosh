@@ -839,3 +839,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-11] fix(routine): enhance data transformation performance
 - [2025-06-11] test(exams): harden null check handling
 - [2025-06-11] refactor(database): refactor cache invalidation trigger
+- [2025-06-11] docs(files): expand tests for backup manifest validation
