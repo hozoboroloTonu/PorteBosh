@@ -836,3 +836,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-10] fix(calendar): fix narrow screen layout
 - [2025-06-10] docs(calendar): optimize unit test assertion coverage
 - [2025-06-10] chore(theme): update query index performance
+- [2025-06-11] fix(routine): enhance data transformation performance
