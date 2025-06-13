@@ -842,3 +842,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-11] docs(files): expand tests for backup manifest validation
 - [2025-06-11] perf(courses): document unit test assertion coverage
 - [2025-06-12] refactor(database): clean up error boundary logic
+- [2025-06-13] fix(theme): expand tests for error logging clarity
