@@ -848,3 +848,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-14] refactor(database): fix error boundary logic
 - [2025-06-14] feat(files): streamline stream subscription lifecycle
 - [2025-06-14] fix(tasks): harden data transformation performance
+- [2025-06-15] refactor(notes): improve data transformation performance
