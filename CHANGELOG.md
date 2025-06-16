@@ -851,3 +851,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-15] refactor(notes): improve data transformation performance
 - [2025-06-15] perf(routine): harden data transformation performance
 - [2025-06-16] test(widget): verify session edit dialog rejects invalid times
+- [2025-06-16] feat(exams): support recording total and acquired marks
