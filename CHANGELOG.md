@@ -857,3 +857,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-17] chore(viewers): streamline unit test assertion coverage
 - [2025-06-17] perf(tasks): streamline parameter validation
 - [2025-06-17] perf(theme): expand tests for stream subscription lifecycle
+- [2025-06-17] fix(tasks): harden unit test assertion coverage
