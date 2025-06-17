@@ -853,3 +853,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-16] test(widget): verify session edit dialog rejects invalid times
 - [2025-06-16] feat(exams): support recording total and acquired marks
 - [2025-06-17] feat(exams): implement exam preparation topic checklist
+- [2025-06-17] perf(files): harden time calculation edge cases
