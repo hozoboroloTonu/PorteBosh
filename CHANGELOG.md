@@ -862,3 +862,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-18] fix(exams): refactor data transformation performance
 - [2025-06-18] refactor(database): refactor query index performance
 - [2025-06-19] test(notes): clean up data transformation performance
+- [2025-06-19] docs(theme): fix query index performance
