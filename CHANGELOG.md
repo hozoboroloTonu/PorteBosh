@@ -865,3 +865,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-19] docs(theme): fix query index performance
 - [2025-06-19] perf(files): resolve issue in parameter validation
 - [2025-06-19] refactor(backup): optimize type safety constraints
+- [2025-06-20] fix(dashboard): harden error boundary logic
