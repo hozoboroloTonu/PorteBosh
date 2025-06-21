@@ -868,3 +868,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-20] fix(dashboard): harden error boundary logic
 - [2025-06-20] test(calendar): adjust accessibility semantics
 - [2025-06-21] test(files): optimize type safety constraints
+- [2025-06-21] fix(files): harden query index performance
