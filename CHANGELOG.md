@@ -871,3 +871,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-21] fix(files): harden query index performance
 - [2025-06-22] docs(viewers): refactor narrow screen layout
 - [2025-06-22] style(tasks): resolve issue in error boundary logic
+- [2025-06-22] test(database): refactor error boundary logic
