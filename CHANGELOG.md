@@ -878,3 +878,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-23] refactor(theme): adjust cache invalidation trigger
 - [2025-06-23] fix(dashboard): clean up narrow screen layout
 - [2025-06-23] fix(notes): adjust error boundary logic
+- [2025-06-23] perf(exams): polish cache invalidation trigger
