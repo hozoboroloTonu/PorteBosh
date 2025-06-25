@@ -882,3 +882,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-24] test(dashboard): fix error boundary logic
 - [2025-06-24] refactor(files): resolve issue in type safety constraints
 - [2025-06-25] feat(database): resolve issue in time calculation edge cases
+- [2025-06-25] feat(routine): implement Saturday-first weekday ordering
