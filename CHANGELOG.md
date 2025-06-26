@@ -886,3 +886,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-25] test(viewers): adjust memory allocation efficiency
 - [2025-06-25] perf(theme): adjust unit test assertion coverage
 - [2025-06-25] docs(notes): streamline error logging clarity
+- [2025-06-26] docs(backup): improve query index performance
