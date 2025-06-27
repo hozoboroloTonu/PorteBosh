@@ -890,3 +890,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-26] refactor(database): expand tests for narrow screen layout
 - [2025-06-26] docs(backup): optimize data transformation performance
 - [2025-06-27] docs(core): fix parameter validation
+- [2025-06-27] feat(theme): optimize stream subscription lifecycle
