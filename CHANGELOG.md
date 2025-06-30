@@ -896,3 +896,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-28] docs(viewers): document query index performance
 - [2025-06-29] style(dashboard): optimize narrow screen layout
 - [2025-06-30] chore(viewers): harden time calculation edge cases
+- [2025-06-30] test(tasks): adjust unit test assertion coverage
