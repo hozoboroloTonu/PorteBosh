@@ -899,3 +899,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-30] test(tasks): adjust unit test assertion coverage
 - [2025-06-30] perf(files): optimize data transformation performance
 - [2025-06-30] feat(dashboard): harden cache invalidation trigger
+- [2025-06-30] style(viewers): enhance accessibility semantics
