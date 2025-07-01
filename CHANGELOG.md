@@ -902,3 +902,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-06-30] style(viewers): enhance accessibility semantics
 - [2025-06-30] chore(calendar): optimize null check handling
 - [2025-07-01] chore(calendar): polish query index performance
+- [2025-07-01] fix(exams): expand tests for error boundary logic
