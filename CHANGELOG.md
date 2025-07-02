@@ -905,3 +905,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-01] fix(exams): expand tests for error boundary logic
 - [2025-07-01] perf(database): improve type safety constraints
 - [2025-07-01] feat(core): expand tests for narrow screen layout
+- [2025-07-02] chore(notes): polish stream subscription lifecycle
