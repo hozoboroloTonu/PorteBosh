@@ -909,3 +909,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-02] feat(files): polish error boundary logic
 - [2025-07-02] docs(routine): clean up accessibility semantics
 - [2025-07-02] test(calendar): streamline narrow screen layout
+- [2025-07-03] docs(notes): clean up parameter validation
