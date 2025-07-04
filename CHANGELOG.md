@@ -911,3 +911,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-02] test(calendar): streamline narrow screen layout
 - [2025-07-03] docs(notes): clean up parameter validation
 - [2025-07-03] test(widget): test course card renders correct accent color
+- [2025-07-04] fix(notes): expand tests for memory allocation efficiency
