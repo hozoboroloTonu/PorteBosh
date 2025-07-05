@@ -913,3 +913,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-03] test(widget): test course card renders correct accent color
 - [2025-07-04] fix(notes): expand tests for memory allocation efficiency
 - [2025-07-05] fix(exams): adjust unit test assertion coverage
+- [2025-07-05] chore(courses): implement error logging clarity
