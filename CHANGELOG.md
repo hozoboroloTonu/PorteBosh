@@ -916,3 +916,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-05] chore(courses): implement error logging clarity
 - [2025-07-09] perf(notes): enhance narrow screen layout
 - [2025-07-09] chore(exams): resolve issue in parameter validation
+- [2025-07-09] style(backup): implement null check handling
