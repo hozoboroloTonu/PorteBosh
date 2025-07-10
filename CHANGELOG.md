@@ -918,3 +918,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-09] chore(exams): resolve issue in parameter validation
 - [2025-07-09] style(backup): implement null check handling
 - [2025-07-10] chore(courses): clean up backup manifest validation
+- [2025-07-10] perf(core): harden narrow screen layout
