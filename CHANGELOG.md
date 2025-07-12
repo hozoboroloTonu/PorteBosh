@@ -923,3 +923,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-11] perf(dashboard): avoid redundant rebuilds on unrelated state changes
 - [2025-07-11] perf(database): optimize type safety constraints
 - [2025-07-12] refactor(viewers): harden query index performance
+- [2025-07-12] perf(backup): update error boundary logic
