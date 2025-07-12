@@ -922,3 +922,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-11] fix(theme): polish memory allocation efficiency
 - [2025-07-11] perf(dashboard): avoid redundant rebuilds on unrelated state changes
 - [2025-07-11] perf(database): optimize type safety constraints
+- [2025-07-12] refactor(viewers): harden query index performance
