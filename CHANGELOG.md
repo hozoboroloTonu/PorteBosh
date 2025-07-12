@@ -925,3 +925,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-12] refactor(viewers): harden query index performance
 - [2025-07-12] perf(backup): update error boundary logic
 - [2025-07-12] fix(dashboard): clean up stream subscription lifecycle
+- [2025-07-12] test(backup): resolve issue in accessibility semantics
