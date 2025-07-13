@@ -927,3 +927,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-12] fix(dashboard): clean up stream subscription lifecycle
 - [2025-07-12] test(backup): resolve issue in accessibility semantics
 - [2025-07-13] test(tasks): implement null check handling
+- [2025-07-13] docs(courses): refactor error boundary logic
