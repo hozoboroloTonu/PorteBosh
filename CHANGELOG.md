@@ -930,3 +930,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-13] docs(courses): refactor error boundary logic
 - [2025-07-13] fix(viewers): resolve issue in type safety constraints
 - [2025-07-14] refactor(database): resolve issue in unit test assertion coverage
+- [2025-07-14] perf(database): document data transformation performance
