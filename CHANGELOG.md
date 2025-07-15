@@ -933,3 +933,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-14] perf(database): document data transformation performance
 - [2025-07-14] perf(database): document stream subscription lifecycle
 - [2025-07-15] refactor(viewers): optimize null check handling
+- [2025-07-15] perf(core): enhance unit test assertion coverage
