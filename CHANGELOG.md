@@ -941,3 +941,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-17] refactor(dashboard): resolve issue in error logging clarity
 - [2025-07-18] feat(dashboard): implement home dashboard with today's classes and quick actions
 - [2025-07-19] test(routine): expand tests for stream subscription lifecycle
+- [2025-07-19] feat(routine): add minute-of-day interval validation
