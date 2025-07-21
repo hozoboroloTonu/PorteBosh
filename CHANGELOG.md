@@ -945,3 +945,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-20] feat(theme): polish time calculation edge cases
 - [2025-07-21] fix(calendar): implement memory allocation efficiency
 - [2025-07-21] feat(viewers): clean up null check handling
+- [2025-07-21] chore(viewers): enhance cache invalidation trigger
