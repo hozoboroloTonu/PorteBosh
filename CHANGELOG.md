@@ -943,3 +943,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-19] test(routine): expand tests for stream subscription lifecycle
 - [2025-07-19] feat(routine): add minute-of-day interval validation
 - [2025-07-20] feat(theme): polish time calculation edge cases
+- [2025-07-21] fix(calendar): implement memory allocation efficiency
