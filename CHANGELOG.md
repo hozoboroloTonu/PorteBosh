@@ -947,3 +947,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-21] feat(viewers): clean up null check handling
 - [2025-07-21] chore(viewers): enhance cache invalidation trigger
 - [2025-07-22] docs(routine): expand tests for type safety constraints
+- [2025-07-22] refactor(tasks): fix parameter validation
