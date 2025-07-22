@@ -952,3 +952,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-22] docs(routine): implement cache invalidation trigger
 - [2025-07-22] docs(routine): clean up narrow screen layout
 - [2025-07-22] fix(tasks): clean up error logging clarity
+- [2025-07-22] docs(backup): adjust data transformation performance
