@@ -957,3 +957,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-23] refactor(notes): improve accessibility semantics
 - [2025-07-23] fix(calendar): refactor type safety constraints
 - [2025-07-24] style(backup): expand tests for narrow screen layout
+- [2025-07-25] fix(files): resolve issue in accessibility semantics
