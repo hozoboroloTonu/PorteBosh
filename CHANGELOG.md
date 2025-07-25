@@ -960,3 +960,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-25] fix(files): resolve issue in accessibility semantics
 - [2025-07-25] feat(files): support streaming file import for large documents
 - [2025-07-25] test(routine): document cache invalidation trigger
+- [2025-07-25] docs(calendar): harden time calculation edge cases
