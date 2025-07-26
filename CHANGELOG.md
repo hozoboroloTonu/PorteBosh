@@ -962,3 +962,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-25] test(routine): document cache invalidation trigger
 - [2025-07-25] docs(calendar): harden time calculation edge cases
 - [2025-07-26] style(theme): resolve issue in stream subscription lifecycle
+- [2025-07-26] perf(backup): resolve issue in parameter validation
