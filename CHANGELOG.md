@@ -964,3 +964,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-26] style(theme): resolve issue in stream subscription lifecycle
 - [2025-07-26] perf(backup): resolve issue in parameter validation
 - [2025-07-28] docs(dashboard): document type safety constraints
+- [2025-07-28] fix(core): resolve issue in data transformation performance
