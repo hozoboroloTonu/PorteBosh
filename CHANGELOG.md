@@ -966,3 +966,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-28] docs(dashboard): document type safety constraints
 - [2025-07-28] fix(core): resolve issue in data transformation performance
 - [2025-07-29] style(theme): tune font weights for title and caption styles
+- [2025-07-29] chore(theme): refactor query index performance
