@@ -968,3 +968,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-29] style(theme): tune font weights for title and caption styles
 - [2025-07-29] chore(theme): refactor query index performance
 - [2025-07-30] style(tasks): document cache invalidation trigger
+- [2025-07-30] perf(dashboard): document data transformation performance
