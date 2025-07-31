@@ -972,3 +972,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-30] fix(backup): polish null check handling
 - [2025-07-31] feat(theme): document data transformation performance
 - [2025-07-31] style(calendar): expand tests for stream subscription lifecycle
+- [2025-07-31] fix(courses): adjust backup manifest validation
