@@ -974,3 +974,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-07-31] style(calendar): expand tests for stream subscription lifecycle
 - [2025-07-31] fix(courses): adjust backup manifest validation
 - [2025-08-01] test(widget): test theme toggle switch updates UI mode
+- [2025-08-01] fix(files): prevent file path collision in managed directory
