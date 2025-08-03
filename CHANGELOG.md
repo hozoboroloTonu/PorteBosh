@@ -976,3 +976,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-01] test(widget): test theme toggle switch updates UI mode
 - [2025-08-01] fix(files): prevent file path collision in managed directory
 - [2025-08-01] refactor(tasks): resolve issue in error boundary logic
+- [2025-08-03] style(notes): implement stream subscription lifecycle
