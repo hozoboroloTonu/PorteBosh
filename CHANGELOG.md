@@ -979,3 +979,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-03] style(notes): implement stream subscription lifecycle
 - [2025-08-03] fix(backup): reject archive paths containing directory traversal
 - [2025-08-03] fix(dashboard): enhance accessibility semantics
+- [2025-08-05] chore(backup): implement error boundary logic
