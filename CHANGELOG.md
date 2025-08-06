@@ -981,3 +981,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-03] fix(dashboard): enhance accessibility semantics
 - [2025-08-05] chore(backup): implement error boundary logic
 - [2025-08-05] fix(database): polish null check handling
+- [2025-08-06] test(notes): harden query index performance
