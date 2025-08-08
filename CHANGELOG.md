@@ -984,3 +984,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-06] test(notes): harden query index performance
 - [2025-08-06] perf(database): harden null check handling
 - [2025-08-06] fix(notes): expand tests for query index performance
+- [2025-08-08] fix(core): polish time calculation edge cases
