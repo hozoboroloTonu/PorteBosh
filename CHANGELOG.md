@@ -988,3 +988,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-08] feat(exams): fix data transformation performance
 - [2025-08-09] test(dashboard): refactor backup manifest validation
 - [2025-08-09] perf(exams): update data transformation performance
+- [2025-08-09] docs(dashboard): expand tests for cache invalidation trigger
