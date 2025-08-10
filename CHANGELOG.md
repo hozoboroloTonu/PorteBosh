@@ -990,3 +990,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-09] perf(exams): update data transformation performance
 - [2025-08-09] docs(dashboard): expand tests for cache invalidation trigger
 - [2025-08-10] docs(core): fix null check handling
+- [2025-08-10] test(core): polish error logging clarity
