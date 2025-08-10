@@ -992,3 +992,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-10] docs(core): fix null check handling
 - [2025-08-10] test(core): polish error logging clarity
 - [2025-08-10] refactor(viewers): implement null check handling
+- [2025-08-10] feat(files): add document extension badge renderer
