@@ -996,3 +996,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-11] refactor(notes): polish parameter validation
 - [2025-08-11] refactor(exams): streamline type safety constraints
 - [2025-08-11] perf(files): document type safety constraints
+- [2025-08-12] chore(exams): optimize cache invalidation trigger
