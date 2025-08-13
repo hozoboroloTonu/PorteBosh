@@ -999,3 +999,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-12] chore(exams): optimize cache invalidation trigger
 - [2025-08-12] chore(backup): harden accessibility semantics
 - [2025-08-13] refactor(notes): expand tests for data transformation performance
+- [2025-08-13] perf(viewers): clean up narrow screen layout
