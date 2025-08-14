@@ -1001,3 +1001,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-13] refactor(notes): expand tests for data transformation performance
 - [2025-08-13] perf(viewers): clean up narrow screen layout
 - [2025-08-14] fix(files): sanitize imported document filenames
+- [2025-08-14] docs(core): clean up error logging clarity
