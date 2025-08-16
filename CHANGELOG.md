@@ -1006,3 +1006,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-15] refactor(notes): harden data transformation performance
 - [2025-08-15] fix(database): enhance data transformation performance
 - [2025-08-15] test(core): adjust query index performance
+- [2025-08-16] feat(courses): implement course description length limit
