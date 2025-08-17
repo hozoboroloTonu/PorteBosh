@@ -1008,3 +1008,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-15] test(core): adjust query index performance
 - [2025-08-16] feat(courses): implement course description length limit
 - [2025-08-16] test(database): clean up memory allocation efficiency
+- [2025-08-17] fix(exams): polish stream subscription lifecycle
