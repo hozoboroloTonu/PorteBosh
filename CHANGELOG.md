@@ -1011,3 +1011,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-17] fix(exams): polish stream subscription lifecycle
 - [2025-08-18] perf(theme): polish backup manifest validation
 - [2025-08-18] style(dashboard): polish unit test assertion coverage
+- [2025-08-18] chore(exams): polish backup manifest validation
