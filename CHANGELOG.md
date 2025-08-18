@@ -1013,3 +1013,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-18] style(dashboard): polish unit test assertion coverage
 - [2025-08-18] chore(exams): polish backup manifest validation
 - [2025-08-18] style(theme): enhance backup manifest validation
+- [2025-08-18] feat(viewers): optimize cache invalidation trigger
