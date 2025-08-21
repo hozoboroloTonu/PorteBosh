@@ -1021,3 +1021,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-20] style(viewers): expand tests for memory allocation efficiency
 - [2025-08-20] perf(exams): document data transformation performance
 - [2025-08-21] docs(courses): resolve issue in null check handling
+- [2025-08-21] chore(files): improve memory allocation efficiency
