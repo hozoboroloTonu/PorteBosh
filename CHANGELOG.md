@@ -1023,3 +1023,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-21] docs(courses): resolve issue in null check handling
 - [2025-08-21] chore(files): improve memory allocation efficiency
 - [2025-08-22] fix(exams): document narrow screen layout
+- [2025-08-22] perf(exams): clean up cache invalidation trigger
