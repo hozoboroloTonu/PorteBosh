@@ -1026,3 +1026,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-22] perf(exams): clean up cache invalidation trigger
 - [2025-08-22] feat(courses): update cache invalidation trigger
 - [2025-08-23] test(files): expand tests for narrow screen layout
+- [2025-08-23] style(core): document type safety constraints
