@@ -1029,3 +1029,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-23] style(core): document type safety constraints
 - [2025-08-26] test(unit): add tests for minute-of-day conversion
 - [2025-08-26] fix(core): refactor error logging clarity
+- [2025-08-26] docs(core): optimize error boundary logic
