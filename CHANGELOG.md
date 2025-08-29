@@ -1033,3 +1033,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-27] fix(tasks): correct overdue calculation for past midnight tasks
 - [2025-08-27] style(theme): harden unit test assertion coverage
 - [2025-08-27] chore(viewers): optimize time calculation edge cases
+- [2025-08-29] fix(files): expand tests for query index performance
