@@ -1035,3 +1035,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-27] chore(viewers): optimize time calculation edge cases
 - [2025-08-29] fix(files): expand tests for query index performance
 - [2025-08-30] chore(viewers): refactor error boundary logic
+- [2025-08-30] perf(backup): optimize time calculation edge cases
