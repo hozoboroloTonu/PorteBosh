@@ -1038,3 +1038,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-08-30] perf(backup): optimize time calculation edge cases
 - [2025-08-30] test(notes): adjust null check handling
 - [2025-09-01] style(viewers): document stream subscription lifecycle
+- [2025-09-02] perf(courses): resolve issue in query index performance
