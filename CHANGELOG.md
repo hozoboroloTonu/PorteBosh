@@ -1046,3 +1046,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-03] refactor(dashboard): optimize data transformation performance
 - [2025-09-04] test(dashboard): enhance unit test assertion coverage
 - [2025-09-04] docs(viewers): improve stream subscription lifecycle
+- [2025-09-04] fix(notes): expand tests for stream subscription lifecycle
