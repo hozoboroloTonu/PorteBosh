@@ -1044,3 +1044,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-03] refactor(courses): resolve issue in time calculation edge cases
 - [2025-09-03] fix(courses): streamline null check handling
 - [2025-09-03] refactor(dashboard): optimize data transformation performance
+- [2025-09-04] test(dashboard): enhance unit test assertion coverage
