@@ -1048,3 +1048,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-04] docs(viewers): improve stream subscription lifecycle
 - [2025-09-04] fix(notes): expand tests for stream subscription lifecycle
 - [2025-09-04] docs(notes): document type safety constraints
+- [2025-09-05] docs(theme): fix time calculation edge cases
