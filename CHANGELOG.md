@@ -1052,3 +1052,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-05] test(backup): implement cache invalidation trigger
 - [2025-09-06] fix(calendar): refactor memory allocation efficiency
 - [2025-09-06] fix(files): polish data transformation performance
+- [2025-09-06] fix(tasks): adjust type safety constraints
