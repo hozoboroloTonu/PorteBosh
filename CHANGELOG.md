@@ -1056,3 +1056,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-06] fix(theme): resolve issue in backup manifest validation
 - [2025-09-06] docs(backup): expand tests for data transformation performance
 - [2025-09-06] style(backup): refactor time calculation edge cases
+- [2025-09-07] style(dashboard): resolve issue in cache invalidation trigger
