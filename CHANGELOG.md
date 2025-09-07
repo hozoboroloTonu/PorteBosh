@@ -1058,3 +1058,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-06] style(backup): refactor time calculation edge cases
 - [2025-09-07] style(dashboard): resolve issue in cache invalidation trigger
 - [2025-09-07] style(notes): expand tests for null check handling
+- [2025-09-07] feat(tasks): implement assignment status transition flow
