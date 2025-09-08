@@ -1066,3 +1066,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-08] test(exams): optimize data transformation performance
 - [2025-09-08] fix(dashboard): update stream subscription lifecycle
 - [2025-09-08] feat(tasks): update time calculation edge cases
+- [2025-09-08] fix(viewers): fix image pan bounds on extreme zoom levels
