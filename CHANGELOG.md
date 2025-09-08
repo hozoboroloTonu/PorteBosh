@@ -1063,3 +1063,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-07] refactor(viewers): document null check handling
 - [2025-09-07] fix(routine): optimize time calculation edge cases
 - [2025-09-07] fix(notes): fix note content cursor jump during auto-save
+- [2025-09-08] test(exams): optimize data transformation performance
