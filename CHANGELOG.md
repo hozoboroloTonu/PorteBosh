@@ -1072,3 +1072,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-09] fix(routine): resolve issue in accessibility semantics
 - [2025-09-09] test(viewers): enhance data transformation performance
 - [2025-09-10] docs(courses): expand tests for narrow screen layout
+- [2025-09-10] refactor(theme): enhance stream subscription lifecycle
