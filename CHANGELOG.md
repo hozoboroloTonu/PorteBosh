@@ -1075,3 +1075,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-10] refactor(theme): enhance stream subscription lifecycle
 - [2025-09-10] fix(tasks): fix task filter state persistence across tabs
 - [2025-09-11] feat(calendar): document error logging clarity
+- [2025-09-12] perf(files): resolve issue in error boundary logic
