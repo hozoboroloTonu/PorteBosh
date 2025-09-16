@@ -1079,3 +1079,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-15] fix(files): optimize backup manifest validation
 - [2025-09-15] test(tasks): implement error logging clarity
 - [2025-09-15] fix(database): clean up type safety constraints
+- [2025-09-16] fix(viewers): fix page index offset in PDF navigation bar
