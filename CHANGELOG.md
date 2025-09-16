@@ -1081,3 +1081,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-15] fix(database): clean up type safety constraints
 - [2025-09-16] fix(viewers): fix page index offset in PDF navigation bar
 - [2025-09-16] perf(dashboard): resolve issue in null check handling
+- [2025-09-16] feat(dashboard): enhance query index performance
