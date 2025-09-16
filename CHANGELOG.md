@@ -1082,3 +1082,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-16] fix(viewers): fix page index offset in PDF navigation bar
 - [2025-09-16] perf(dashboard): resolve issue in null check handling
 - [2025-09-16] feat(dashboard): enhance query index performance
+- [2025-09-16] perf(routine): optimize null check handling
