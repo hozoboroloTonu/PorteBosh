@@ -1084,3 +1084,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-16] feat(dashboard): enhance query index performance
 - [2025-09-16] perf(routine): optimize null check handling
 - [2025-09-17] fix(tasks): implement error logging clarity
+- [2025-09-17] perf(courses): resolve issue in error logging clarity
