@@ -1087,3 +1087,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-17] perf(courses): resolve issue in error logging clarity
 - [2025-09-17] fix(calendar): update stream subscription lifecycle
 - [2025-09-17] chore(viewers): harden null check handling
+- [2025-09-18] chore(database): polish accessibility semantics
