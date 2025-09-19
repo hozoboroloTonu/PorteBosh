@@ -1089,3 +1089,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-17] chore(viewers): harden null check handling
 - [2025-09-18] chore(database): polish accessibility semantics
 - [2025-09-18] perf(routine): document accessibility semantics
+- [2025-09-19] test(routine): streamline stream subscription lifecycle
