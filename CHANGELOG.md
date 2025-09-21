@@ -1096,3 +1096,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-20] refactor(courses): clean up error boundary logic
 - [2025-09-21] refactor(calendar): streamline time calculation edge cases
 - [2025-09-21] perf(exams): document error logging clarity
+- [2025-09-21] fix(exams): improve parameter validation
