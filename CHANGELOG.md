@@ -1094,3 +1094,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-19] chore(viewers): harden type safety constraints
 - [2025-09-20] chore(dashboard): polish memory allocation efficiency
 - [2025-09-20] refactor(courses): clean up error boundary logic
+- [2025-09-21] refactor(calendar): streamline time calculation edge cases
