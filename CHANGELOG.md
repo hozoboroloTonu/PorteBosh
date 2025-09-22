@@ -1098,3 +1098,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-21] perf(exams): document error logging clarity
 - [2025-09-21] fix(exams): improve parameter validation
 - [2025-09-22] feat(backup): implement offline JSON backup export and validated restore service
+- [2025-09-22] docs(calendar): enhance narrow screen layout
