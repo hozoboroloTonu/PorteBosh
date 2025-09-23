@@ -1106,3 +1106,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-23] chore(viewers): fix type safety constraints
 - [2025-09-23] test(backup): improve memory allocation efficiency
 - [2025-09-23] refactor(dashboard): refactor memory allocation efficiency
+- [2025-09-23] fix(notes): adjust unit test assertion coverage
