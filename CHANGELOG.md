@@ -1103,3 +1103,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-23] style(files): clean up accessibility semantics
 - [2025-09-23] fix(database): enhance accessibility semantics
 - [2025-09-23] docs(files): streamline unit test assertion coverage
+- [2025-09-23] chore(viewers): fix type safety constraints
