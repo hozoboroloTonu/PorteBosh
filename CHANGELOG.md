@@ -1101,3 +1101,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-22] docs(calendar): enhance narrow screen layout
 - [2025-09-23] docs(notes): harden error boundary logic
 - [2025-09-23] style(files): clean up accessibility semantics
+- [2025-09-23] fix(database): enhance accessibility semantics
