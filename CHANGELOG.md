@@ -1100,3 +1100,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-22] feat(backup): implement offline JSON backup export and validated restore service
 - [2025-09-22] docs(calendar): enhance narrow screen layout
 - [2025-09-23] docs(notes): harden error boundary logic
+- [2025-09-23] style(files): clean up accessibility semantics
