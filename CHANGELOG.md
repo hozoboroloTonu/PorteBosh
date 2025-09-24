@@ -1108,3 +1108,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-23] refactor(dashboard): refactor memory allocation efficiency
 - [2025-09-23] fix(notes): adjust unit test assertion coverage
 - [2025-09-24] perf(calendar): refactor backup manifest validation
+- [2025-09-24] feat(routine): refactor null check handling
