@@ -1112,3 +1112,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-09-26] feat(database): adjust data transformation performance
 - [2025-09-26] style(calendar): implement narrow screen layout
 - [2025-09-26] chore(calendar): resolve issue in cache invalidation trigger
+- [2025-09-27] style(tasks): refactor error logging clarity
