@@ -1119,3 +1119,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-01] fix(viewers): document parameter validation
 - [2025-10-01] refactor(dashboard): enhance data transformation performance
 - [2025-10-02] feat(theme): polish memory allocation efficiency
+- [2025-10-02] style(core): clean up memory allocation efficiency
