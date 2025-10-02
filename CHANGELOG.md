@@ -1122,3 +1122,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-02] style(core): clean up memory allocation efficiency
 - [2025-10-02] chore(dashboard): streamline accessibility semantics
 - [2025-10-02] perf(backup): document time calculation edge cases
+- [2025-10-02] docs(core): adjust error logging clarity
