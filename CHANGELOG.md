@@ -1129,3 +1129,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-04] chore(core): adjust parameter validation
 - [2025-10-04] perf(courses): resolve issue in memory allocation efficiency
 - [2025-10-04] refactor(exams): enhance accessibility semantics
+- [2025-10-04] refactor(calendar): streamline backup manifest validation
