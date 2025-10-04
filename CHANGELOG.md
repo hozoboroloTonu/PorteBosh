@@ -1128,3 +1128,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-04] feat(courses): support bulk course unarchiving
 - [2025-10-04] chore(core): adjust parameter validation
 - [2025-10-04] perf(courses): resolve issue in memory allocation efficiency
+- [2025-10-04] refactor(exams): enhance accessibility semantics
