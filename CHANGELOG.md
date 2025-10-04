@@ -1124,3 +1124,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-02] perf(backup): document time calculation edge cases
 - [2025-10-02] docs(core): adjust error logging clarity
 - [2025-10-02] perf(dashboard): streamline narrow screen layout
+- [2025-10-04] perf(dashboard): enhance null check handling
