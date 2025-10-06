@@ -1135,3 +1135,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-06] chore(backup): polish data transformation performance
 - [2025-10-06] docs(routine): resolve issue in parameter validation
 - [2025-10-06] fix(courses): enhance time calculation edge cases
+- [2025-10-06] fix(calendar): update memory allocation efficiency
