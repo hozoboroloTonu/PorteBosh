@@ -1139,3 +1139,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-07] chore(theme): expand tests for backup manifest validation
 - [2025-10-07] feat(calendar): adjust cache invalidation trigger
 - [2025-10-07] chore(files): refactor data transformation performance
+- [2025-10-07] docs(notes): clean up unit test assertion coverage
