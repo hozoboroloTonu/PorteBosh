@@ -1143,3 +1143,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-07] perf(notes): improve narrow screen layout
 - [2025-10-07] style(theme): adjust unit test assertion coverage
 - [2025-10-08] fix(courses): prevent duplicate course names in same semester
+- [2025-10-08] feat(courses): cache recent course workspace selections
