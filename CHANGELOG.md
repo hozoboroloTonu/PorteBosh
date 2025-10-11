@@ -1146,3 +1146,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-08] feat(courses): cache recent course workspace selections
 - [2025-10-09] docs(dashboard): clean up type safety constraints
 - [2025-10-09] refactor(dashboard): streamline unit test assertion coverage
+- [2025-10-11] refactor(database): resolve issue in cache invalidation trigger
