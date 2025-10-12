@@ -1148,3 +1148,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-09] refactor(dashboard): streamline unit test assertion coverage
 - [2025-10-11] refactor(database): resolve issue in cache invalidation trigger
 - [2025-10-11] perf(core): polish cache invalidation trigger
+- [2025-10-12] style(core): implement accessibility semantics
