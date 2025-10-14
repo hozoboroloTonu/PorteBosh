@@ -1152,3 +1152,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-12] fix(routine): optimize null check handling
 - [2025-10-12] perf(notes): implement stream subscription lifecycle
 - [2025-10-13] chore(notes): implement backup manifest validation
+- [2025-10-14] fix(backup): refactor accessibility semantics
