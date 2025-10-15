@@ -1157,3 +1157,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-14] perf(viewers): streamline time calculation edge cases
 - [2025-10-14] fix(exams): enhance type safety constraints
 - [2025-10-14] docs(database): document query index performance
+- [2025-10-15] chore(database): resolve issue in backup manifest validation
