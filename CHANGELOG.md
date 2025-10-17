@@ -1162,3 +1162,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-15] feat(viewers): implement backup manifest validation
 - [2025-10-16] test(exams): document type safety constraints
 - [2025-10-17] docs(calendar): resolve issue in backup manifest validation
+- [2025-10-17] fix(theme): refactor backup manifest validation
