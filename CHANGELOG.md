@@ -1174,3 +1174,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-19] perf(routine): streamline narrow screen layout
 - [2025-10-19] style(files): polish unit test assertion coverage
 - [2025-10-20] chore(database): improve unit test assertion coverage
+- [2025-10-20] refactor(exams): polish memory allocation efficiency
