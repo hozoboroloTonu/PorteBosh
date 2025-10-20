@@ -1177,3 +1177,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-20] refactor(exams): polish memory allocation efficiency
 - [2025-10-20] docs(dashboard): streamline error boundary logic
 - [2025-10-20] style(theme): adjust divider opacity and stroke widths
+- [2025-10-20] test(core): fix error logging clarity
