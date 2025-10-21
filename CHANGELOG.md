@@ -1180,3 +1180,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-20] test(core): fix error logging clarity
 - [2025-10-20] fix(exams): handle null marks safely in results summary
 - [2025-10-20] docs(viewers): optimize type safety constraints
+- [2025-10-21] feat(exams): enhance accessibility semantics
