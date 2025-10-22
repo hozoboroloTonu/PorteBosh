@@ -1188,3 +1188,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-22] perf(core): expand tests for null check handling
 - [2025-10-22] feat(routine): expand tests for memory allocation efficiency
 - [2025-10-22] fix(courses): adjust data transformation performance
+- [2025-10-22] chore(tasks): clean up memory allocation efficiency
