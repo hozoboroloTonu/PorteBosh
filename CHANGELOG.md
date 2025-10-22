@@ -1184,3 +1184,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-21] style(courses): optimize type safety constraints
 - [2025-10-21] test(dashboard): implement null check handling
 - [2025-10-21] refactor(exams): polish data transformation performance
+- [2025-10-22] refactor(calendar): enhance narrow screen layout
