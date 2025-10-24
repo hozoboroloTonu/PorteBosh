@@ -1196,3 +1196,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-24] docs(calendar): clean up query index performance
 - [2025-10-24] fix(files): fix memory leak in large file reading stream
 - [2025-10-24] feat(routine): add room number search helper
+- [2025-10-24] docs(theme): polish memory allocation efficiency
