@@ -1194,3 +1194,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-23] fix(backup): expand tests for accessibility semantics
 - [2025-10-23] docs(calendar): refactor error boundary logic
 - [2025-10-24] docs(calendar): clean up query index performance
+- [2025-10-24] fix(files): fix memory leak in large file reading stream
