@@ -1201,3 +1201,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-26] docs(files): streamline error logging clarity
 - [2025-10-27] docs(database): clean up null check handling
 - [2025-10-27] feat(courses): adjust backup manifest validation
+- [2025-10-27] test(routine): refactor stream subscription lifecycle
