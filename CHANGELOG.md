@@ -1207,3 +1207,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-28] docs(routine): update error boundary logic
 - [2025-10-28] perf(notes): fix error boundary logic
 - [2025-10-28] feat(courses): implement error boundary logic
+- [2025-10-28] fix(backup): fix parameter validation
