@@ -1209,3 +1209,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-28] feat(courses): implement error boundary logic
 - [2025-10-28] fix(backup): fix parameter validation
 - [2025-10-29] chore(routine): improve parameter validation
+- [2025-10-30] feat(calendar): clean up type safety constraints
