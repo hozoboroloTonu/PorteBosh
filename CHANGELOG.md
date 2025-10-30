@@ -1212,3 +1212,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-30] feat(calendar): clean up type safety constraints
 - [2025-10-30] docs(dashboard): resolve issue in backup manifest validation
 - [2025-10-30] style(notes): fix error logging clarity
+- [2025-10-30] docs(courses): enhance query index performance
