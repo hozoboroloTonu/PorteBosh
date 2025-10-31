@@ -1216,3 +1216,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-30] refactor(viewers): refactor accessibility semantics
 - [2025-10-31] style(database): streamline error boundary logic
 - [2025-10-31] feat(viewers): fix type safety constraints
+- [2025-10-31] chore(files): fix cache invalidation trigger
