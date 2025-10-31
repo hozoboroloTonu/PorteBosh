@@ -1214,3 +1214,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-30] style(notes): fix error logging clarity
 - [2025-10-30] docs(courses): enhance query index performance
 - [2025-10-30] refactor(viewers): refactor accessibility semantics
+- [2025-10-31] style(database): streamline error boundary logic
