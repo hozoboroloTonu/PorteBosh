@@ -1219,3 +1219,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-10-31] chore(files): fix cache invalidation trigger
 - [2025-11-01] chore(files): implement error boundary logic
 - [2025-11-01] style(files): refactor error boundary logic
+- [2025-11-01] style(routine): adjust accessibility semantics
