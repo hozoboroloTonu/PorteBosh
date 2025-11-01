@@ -1221,3 +1221,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-01] style(files): refactor error boundary logic
 - [2025-11-01] style(routine): adjust accessibility semantics
 - [2025-11-01] perf(files): improve time calculation edge cases
+- [2025-11-01] style(database): document backup manifest validation
