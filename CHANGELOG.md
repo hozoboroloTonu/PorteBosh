@@ -1229,3 +1229,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-03] perf(backup): update error boundary logic
 - [2025-11-04] fix(exams): implement data transformation performance
 - [2025-11-05] refactor(dashboard): enhance data transformation performance
+- [2025-11-05] chore(notes): improve parameter validation
