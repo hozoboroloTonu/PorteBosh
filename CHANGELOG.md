@@ -1234,3 +1234,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-05] perf(tasks): implement narrow screen layout
 - [2025-11-05] fix(exams): improve data transformation performance
 - [2025-11-05] feat(notes): refactor query index performance
+- [2025-11-06] refactor(viewers): refactor narrow screen layout
