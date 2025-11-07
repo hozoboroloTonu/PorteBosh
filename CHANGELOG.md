@@ -1239,3 +1239,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-07] fix(exams): fix query index performance
 - [2025-11-07] fix(backup): optimize memory allocation efficiency
 - [2025-11-07] chore(tasks): fix backup manifest validation
+- [2025-11-07] style(theme): adjust stream subscription lifecycle
