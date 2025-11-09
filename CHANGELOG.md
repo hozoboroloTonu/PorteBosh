@@ -1241,3 +1241,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-07] chore(tasks): fix backup manifest validation
 - [2025-11-07] style(theme): adjust stream subscription lifecycle
 - [2025-11-07] chore(routine): optimize cache invalidation trigger
+- [2025-11-09] feat(viewers): document cache invalidation trigger
