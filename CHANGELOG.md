@@ -1247,3 +1247,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-10] refactor(theme): improve backup manifest validation
 - [2025-11-10] style(viewers): harden unit test assertion coverage
 - [2025-11-10] fix(courses): expand tests for query index performance
+- [2025-11-10] feat(files): refactor unit test assertion coverage
