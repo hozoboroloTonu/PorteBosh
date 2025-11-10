@@ -1245,3 +1245,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-09] refactor(files): adjust null check handling
 - [2025-11-09] chore(viewers): streamline backup manifest validation
 - [2025-11-10] refactor(theme): improve backup manifest validation
+- [2025-11-10] style(viewers): harden unit test assertion coverage
