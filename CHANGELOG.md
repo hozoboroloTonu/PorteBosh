@@ -1252,3 +1252,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-10] fix(notes): expand tests for time calculation edge cases
 - [2025-11-11] feat(exams): implement time calculation edge cases
 - [2025-11-12] feat(files): optimize backup manifest validation
+- [2025-11-12] test(core): refactor memory allocation efficiency
