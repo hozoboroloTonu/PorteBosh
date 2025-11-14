@@ -1257,3 +1257,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-14] style(dashboard): refactor error boundary logic
 - [2025-11-14] test(courses): fix query index performance
 - [2025-11-14] docs(dashboard): adjust data transformation performance
+- [2025-11-14] perf(notes): adjust parameter validation
