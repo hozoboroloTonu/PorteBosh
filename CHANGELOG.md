@@ -1255,3 +1255,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-12] test(core): refactor memory allocation efficiency
 - [2025-11-13] refactor(notes): fix unit test assertion coverage
 - [2025-11-14] style(dashboard): refactor error boundary logic
+- [2025-11-14] test(courses): fix query index performance
