@@ -1258,3 +1258,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-14] test(courses): fix query index performance
 - [2025-11-14] docs(dashboard): adjust data transformation performance
 - [2025-11-14] perf(notes): adjust parameter validation
+- [2025-11-15] feat(settings): add settings screen and about dialog with Mahmud Tonmoy attribution
