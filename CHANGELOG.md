@@ -1261,3 +1261,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-15] feat(settings): add settings screen and about dialog with Mahmud Tonmoy attribution
 - [2025-11-15] fix(files): handle missing file on disk with safe error state
 - [2025-11-16] test(notes): fix time calculation edge cases
+- [2025-11-16] fix(courses): improve memory allocation efficiency
