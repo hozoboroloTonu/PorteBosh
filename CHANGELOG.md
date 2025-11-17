@@ -1263,3 +1263,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-16] test(notes): fix time calculation edge cases
 - [2025-11-16] fix(courses): improve memory allocation efficiency
 - [2025-11-17] perf(dashboard): optimize stream subscription lifecycle
+- [2025-11-17] perf(calendar): harden narrow screen layout
