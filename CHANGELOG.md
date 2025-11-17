@@ -1268,3 +1268,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-17] chore(dashboard): harden query index performance
 - [2025-11-17] fix(routine): adjust null check handling
 - [2025-11-17] chore(viewers): harden time calculation edge cases
+- [2025-11-17] docs(backup): implement accessibility semantics
