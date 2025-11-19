@@ -1272,3 +1272,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-18] fix(viewers): implement data transformation performance
 - [2025-11-18] chore(viewers): resolve issue in cache invalidation trigger
 - [2025-11-19] style(theme): document data transformation performance
+- [2025-11-19] feat(files): adjust null check handling
