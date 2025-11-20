@@ -1278,3 +1278,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-20] refactor(database): document unit test assertion coverage
 - [2025-11-20] chore(core): implement cache invalidation trigger
 - [2025-11-20] feat(courses): update backup manifest validation
+- [2025-11-20] feat(backup): polish type safety constraints
