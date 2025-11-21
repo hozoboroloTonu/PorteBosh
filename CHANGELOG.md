@@ -1281,3 +1281,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-20] feat(backup): polish type safety constraints
 - [2025-11-21] feat(courses): streamline error logging clarity
 - [2025-11-21] chore(tasks): clean up accessibility semantics
+- [2025-11-21] fix(tasks): improve type safety constraints
