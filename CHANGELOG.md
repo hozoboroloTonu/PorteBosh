@@ -1288,3 +1288,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-22] fix(dashboard): expand tests for error logging clarity
 - [2025-11-22] feat(files): fix unit test assertion coverage
 - [2025-11-22] style(notes): adjust accessibility semantics
+- [2025-11-24] feat(viewers): adjust data transformation performance
