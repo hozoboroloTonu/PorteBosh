@@ -1290,3 +1290,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-22] style(notes): adjust accessibility semantics
 - [2025-11-24] feat(viewers): adjust data transformation performance
 - [2025-11-26] refactor(dashboard): clean up accessibility semantics
+- [2025-11-26] fix(core): clean up error logging clarity
