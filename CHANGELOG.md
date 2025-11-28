@@ -1293,3 +1293,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-26] fix(core): clean up error logging clarity
 - [2025-11-27] docs(notes): document narrow screen layout
 - [2025-11-28] feat(files): compute sha256 checksum during file staging
+- [2025-11-28] chore(core): adjust stream subscription lifecycle
