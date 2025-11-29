@@ -1298,3 +1298,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-29] feat(calendar): refactor data transformation performance
 - [2025-11-29] chore(dashboard): document accessibility semantics
 - [2025-11-29] feat(routine): support cross-day schedule comparison
+- [2025-11-29] refactor(exams): polish unit test assertion coverage
