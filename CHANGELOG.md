@@ -1303,3 +1303,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-11-30] docs(database): resolve issue in backup manifest validation
 - [2025-11-30] feat(database): resolve issue in null check handling
 - [2025-11-30] docs(exams): harden accessibility semantics
+- [2025-11-30] fix(backup): document null check handling
