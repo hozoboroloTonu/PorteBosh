@@ -1308,3 +1308,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-02] chore(core): document unit test assertion coverage
 - [2025-12-02] perf(database): clean up null check handling
 - [2025-12-02] refactor(routine): extract weekday selector into dedicated component
+- [2025-12-02] test(tasks): refactor cache invalidation trigger
