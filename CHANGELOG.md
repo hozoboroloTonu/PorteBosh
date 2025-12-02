@@ -1307,3 +1307,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-01] test(viewers): document data transformation performance
 - [2025-12-02] chore(core): document unit test assertion coverage
 - [2025-12-02] perf(database): clean up null check handling
+- [2025-12-02] refactor(routine): extract weekday selector into dedicated component
