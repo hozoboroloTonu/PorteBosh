@@ -1310,3 +1310,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-02] refactor(routine): extract weekday selector into dedicated component
 - [2025-12-02] test(tasks): refactor cache invalidation trigger
 - [2025-12-03] fix(core): improve unit test assertion coverage
+- [2025-12-03] docs(core): update query index performance
