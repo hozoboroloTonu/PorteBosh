@@ -1312,3 +1312,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-03] fix(core): improve unit test assertion coverage
 - [2025-12-03] docs(core): update query index performance
 - [2025-12-03] feat(tasks): implement task completion checkbox toggle
+- [2025-12-03] docs(core): polish cache invalidation trigger
