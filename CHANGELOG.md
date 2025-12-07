@@ -1316,3 +1316,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-04] perf(core): fix accessibility semantics
 - [2025-12-04] fix(routine): implement parameter validation
 - [2025-12-05] fix(courses): handle course archive toggle race condition
+- [2025-12-07] test(viewers): document query index performance
