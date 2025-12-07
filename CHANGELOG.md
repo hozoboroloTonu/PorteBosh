@@ -1319,3 +1319,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-07] test(viewers): document query index performance
 - [2025-12-07] style(theme): clean up cache invalidation trigger
 - [2025-12-07] feat(routine): support custom session titles and lab tags
+- [2025-12-07] test(widget): verify empty state view action button trigger
