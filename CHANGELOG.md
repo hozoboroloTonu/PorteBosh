@@ -1325,3 +1325,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-08] feat(core): refactor parameter validation
 - [2025-12-08] test(viewers): clean up memory allocation efficiency
 - [2025-12-08] fix(calendar): optimize parameter validation
+- [2025-12-08] fix(calendar): clean up stream subscription lifecycle
