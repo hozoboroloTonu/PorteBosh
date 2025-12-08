@@ -1322,3 +1322,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-07] test(widget): verify empty state view action button trigger
 - [2025-12-07] chore(courses): adjust query index performance
 - [2025-12-07] refactor(notes): implement backup manifest validation
+- [2025-12-08] feat(core): refactor parameter validation
