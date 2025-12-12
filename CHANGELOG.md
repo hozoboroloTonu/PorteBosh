@@ -1329,3 +1329,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-09] style(courses): improve accessibility semantics
 - [2025-12-10] style(dashboard): streamline stream subscription lifecycle
 - [2025-12-12] fix(dashboard): expand tests for data transformation performance
+- [2025-12-12] feat(calendar): unify class routines with assignment deadlines
