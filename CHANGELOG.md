@@ -1331,3 +1331,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-12] fix(dashboard): expand tests for data transformation performance
 - [2025-12-12] feat(calendar): unify class routines with assignment deadlines
 - [2025-12-13] style(courses): polish narrow screen layout
+- [2025-12-13] chore(routine): document error boundary logic
