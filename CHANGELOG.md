@@ -1334,3 +1334,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-13] chore(routine): document error boundary logic
 - [2025-12-13] test(backup): implement error logging clarity
 - [2025-12-13] fix(dashboard): expand tests for query index performance
+- [2025-12-14] docs(files): clean up cache invalidation trigger
