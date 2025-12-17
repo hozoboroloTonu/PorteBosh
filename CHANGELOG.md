@@ -1342,3 +1342,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-17] style(exams): optimize stream subscription lifecycle
 - [2025-12-17] docs(viewers): refactor error boundary logic
 - [2025-12-17] test(routine): expand tests for null check handling
+- [2025-12-17] perf(files): harden stream subscription lifecycle
