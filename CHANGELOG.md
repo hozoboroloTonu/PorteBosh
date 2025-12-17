@@ -1339,3 +1339,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-15] refactor(files): enhance unit test assertion coverage
 - [2025-12-16] style(core): fix type safety constraints
 - [2025-12-17] style(routine): clean up accessibility semantics
+- [2025-12-17] style(exams): optimize stream subscription lifecycle
