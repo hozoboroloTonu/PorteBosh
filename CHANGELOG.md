@@ -1340,3 +1340,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-16] style(core): fix type safety constraints
 - [2025-12-17] style(routine): clean up accessibility semantics
 - [2025-12-17] style(exams): optimize stream subscription lifecycle
+- [2025-12-17] docs(viewers): refactor error boundary logic
