@@ -1346,3 +1346,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-18] style(backup): optimize error boundary logic
 - [2025-12-19] style(dashboard): refactor cache invalidation trigger
 - [2025-12-19] refactor(database): streamline stream subscription lifecycle
+- [2025-12-19] refactor(files): improve mime type detection using file signature
