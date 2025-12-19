@@ -1344,3 +1344,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-17] test(routine): expand tests for null check handling
 - [2025-12-17] perf(files): harden stream subscription lifecycle
 - [2025-12-18] style(backup): optimize error boundary logic
+- [2025-12-19] style(dashboard): refactor cache invalidation trigger
