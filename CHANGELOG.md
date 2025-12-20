@@ -1350,3 +1350,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-20] refactor(exams): fix time calculation edge cases
 - [2025-12-20] docs(database): harden error logging clarity
 - [2025-12-20] style(backup): update backup manifest validation
+- [2025-12-20] perf(database): refactor time calculation edge cases
