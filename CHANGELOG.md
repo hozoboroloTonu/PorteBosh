@@ -1353,3 +1353,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-20] perf(database): refactor time calculation edge cases
 - [2025-12-20] test(notes): implement query index performance
 - [2025-12-20] style(files): improve stream subscription lifecycle
+- [2025-12-21] refactor(viewers): implement narrow screen layout
