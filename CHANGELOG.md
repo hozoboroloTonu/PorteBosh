@@ -1358,3 +1358,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-22] style(calendar): improve data transformation performance
 - [2025-12-22] style(viewers): implement time calculation edge cases
 - [2025-12-22] docs(tasks): clean up error boundary logic
+- [2025-12-22] chore(exams): harden error boundary logic
