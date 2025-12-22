@@ -1356,3 +1356,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-21] refactor(viewers): implement narrow screen layout
 - [2025-12-21] perf(tasks): fix error logging clarity
 - [2025-12-22] style(calendar): improve data transformation performance
+- [2025-12-22] style(viewers): implement time calculation edge cases
