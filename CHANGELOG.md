@@ -1364,3 +1364,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-23] feat(exams): polish error logging clarity
 - [2025-12-23] test(theme): polish parameter validation
 - [2025-12-23] feat(viewers): add PDF page jump input dialog
+- [2025-12-23] fix(calendar): improve narrow screen layout
