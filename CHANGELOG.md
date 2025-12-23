@@ -1360,3 +1360,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-22] docs(tasks): clean up error boundary logic
 - [2025-12-22] chore(exams): harden error boundary logic
 - [2025-12-22] style(backup): streamline data transformation performance
+- [2025-12-23] chore(database): document narrow screen layout
