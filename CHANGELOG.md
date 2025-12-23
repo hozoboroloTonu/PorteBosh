@@ -1362,3 +1362,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-22] style(backup): streamline data transformation performance
 - [2025-12-23] chore(database): document narrow screen layout
 - [2025-12-23] feat(exams): polish error logging clarity
+- [2025-12-23] test(theme): polish parameter validation
