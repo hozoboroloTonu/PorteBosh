@@ -1371,3 +1371,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-25] test(routine): streamline memory allocation efficiency
 - [2025-12-25] refactor(database): optimize null check handling
 - [2025-12-26] test(routine): document null check handling
+- [2025-12-26] test(courses): improve time calculation edge cases
