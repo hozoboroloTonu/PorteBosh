@@ -1377,3 +1377,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-27] refactor(backup): fix accessibility semantics
 - [2025-12-27] docs(routine): polish unit test assertion coverage
 - [2025-12-27] refactor(viewers): optimize backup manifest validation
+- [2025-12-27] test(tasks): optimize error boundary logic
