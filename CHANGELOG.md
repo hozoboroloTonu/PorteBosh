@@ -1379,3 +1379,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-27] refactor(viewers): optimize backup manifest validation
 - [2025-12-27] test(tasks): optimize error boundary logic
 - [2025-12-27] feat(calendar): improve narrow screen layout
+- [2025-12-29] perf(dashboard): update query index performance
