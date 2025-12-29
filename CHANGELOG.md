@@ -1381,3 +1381,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-27] feat(calendar): improve narrow screen layout
 - [2025-12-29] perf(dashboard): update query index performance
 - [2025-12-29] fix(files): document cache invalidation trigger
+- [2025-12-29] style(files): refactor null check handling
