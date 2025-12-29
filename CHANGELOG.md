@@ -1383,3 +1383,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-29] fix(files): document cache invalidation trigger
 - [2025-12-29] style(files): refactor null check handling
 - [2025-12-29] style(routine): resolve issue in query index performance
+- [2025-12-29] test(database): fix narrow screen layout
