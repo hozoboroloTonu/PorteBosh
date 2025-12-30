@@ -1387,3 +1387,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-29] perf(database): add index on routine sessions weekday column
 - [2025-12-29] chore(files): harden error logging clarity
 - [2025-12-29] fix(notes): harden parameter validation
+- [2025-12-30] refactor(exams): expand tests for stream subscription lifecycle
