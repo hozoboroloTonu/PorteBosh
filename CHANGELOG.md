@@ -1391,3 +1391,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2025-12-31] docs(tasks): refactor backup manifest validation
 - [2025-12-31] fix(notes): update error logging clarity
 - [2026-01-04] feat(courses): optimize accessibility semantics
+- [2026-01-05] fix(exams): implement narrow screen layout
