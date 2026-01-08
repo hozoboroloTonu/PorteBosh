@@ -1396,3 +1396,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-01-06] chore(dashboard): update query index performance
 - [2026-01-06] refactor(backup): streamline time calculation edge cases
 - [2026-01-06] docs(tasks): refactor time calculation edge cases
+- [2026-01-08] style(backup): implement error boundary logic
