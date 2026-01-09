@@ -1398,3 +1398,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-01-06] docs(tasks): refactor time calculation edge cases
 - [2026-01-08] style(backup): implement error boundary logic
 - [2026-01-08] fix(courses): prevent negative course credits entry
+- [2026-01-09] test(backup): clean up unit test assertion coverage
