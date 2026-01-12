@@ -1400,3 +1400,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-01-08] fix(courses): prevent negative course credits entry
 - [2026-01-09] test(backup): clean up unit test assertion coverage
 - [2026-01-11] docs(files): streamline data transformation performance
+- [2026-01-12] perf(exams): document null check handling
