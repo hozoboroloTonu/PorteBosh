@@ -1404,3 +1404,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-01-12] docs(calendar): harden error logging clarity
 - [2026-01-12] style(files): enhance accessibility semantics
 - [2026-01-13] test(routine): fix data transformation performance
+- [2026-01-13] fix(calendar): document error boundary logic
