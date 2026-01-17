@@ -1411,3 +1411,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-01-15] style(tasks): fix time calculation edge cases
 - [2026-01-15] docs(files): harden memory allocation efficiency
 - [2026-01-15] refactor(exams): enhance null check handling
+- [2026-01-17] refactor(courses): decouple course workspace tabs from scaffold
