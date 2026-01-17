@@ -1413,3 +1413,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-01-15] refactor(exams): enhance null check handling
 - [2026-01-17] refactor(courses): decouple course workspace tabs from scaffold
 - [2026-01-17] style(courses): optimize memory allocation efficiency
+- [2026-01-17] docs(routine): harden cache invalidation trigger
