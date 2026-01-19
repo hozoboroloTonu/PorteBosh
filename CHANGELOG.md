@@ -1418,3 +1418,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-01-19] fix(viewers): update error logging clarity
 - [2026-01-19] fix(theme): polish time calculation edge cases
 - [2026-01-19] style(courses): optimize memory allocation efficiency
+- [2026-01-19] style(files): refactor narrow screen layout
