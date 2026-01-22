@@ -1422,3 +1422,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-01-19] refactor(calendar): fix time calculation edge cases
 - [2026-01-21] chore(notes): adjust type safety constraints
 - [2026-01-22] feat(dashboard): optimize error boundary logic
+- [2026-01-22] test(database): document type safety constraints
