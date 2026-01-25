@@ -1426,3 +1426,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-01-22] refactor(calendar): optimize parameter validation
 - [2026-01-23] test(core): optimize null check handling
 - [2026-01-24] fix(routine): resolve timetable conflict calculation edge case
+- [2026-01-25] feat(dashboard): implement data transformation performance
