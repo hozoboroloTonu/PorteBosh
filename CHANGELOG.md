@@ -1428,3 +1428,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-01-24] fix(routine): resolve timetable conflict calculation edge case
 - [2026-01-25] feat(dashboard): implement data transformation performance
 - [2026-01-28] feat(viewers): document narrow screen layout
+- [2026-01-29] docs(backup): refactor cache invalidation trigger
