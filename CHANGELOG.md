@@ -1436,3 +1436,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-02-01] test(unit): verify Saturday-first weekday ordering logic
 - [2026-02-02] perf(database): streamline stream subscription lifecycle
 - [2026-02-03] docs(theme): adjust parameter validation
+- [2026-02-03] fix(calendar): optimize stream subscription lifecycle
