@@ -1439,3 +1439,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-02-03] fix(calendar): optimize stream subscription lifecycle
 - [2026-02-04] fix(database): enhance parameter validation
 - [2026-02-05] fix(calendar): expand tests for type safety constraints
+- [2026-02-08] perf(core): expand tests for backup manifest validation
