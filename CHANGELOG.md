@@ -1447,3 +1447,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-02-09] perf(courses): update error boundary logic
 - [2026-02-09] refactor(calendar): resolve issue in query index performance
 - [2026-02-10] docs(database): streamline backup manifest validation
+- [2026-02-10] refactor(theme): resolve issue in query index performance
