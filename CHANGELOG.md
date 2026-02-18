@@ -1452,3 +1452,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-02-14] perf(courses): fix type safety constraints
 - [2026-02-18] feat(notes): refactor type safety constraints
 - [2026-02-18] chore(core): clean up time calculation edge cases
+- [2026-02-18] fix(core): resolve issue in type safety constraints
