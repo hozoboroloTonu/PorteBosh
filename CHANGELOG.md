@@ -1455,3 +1455,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-02-18] fix(core): resolve issue in type safety constraints
 - [2026-02-20] feat(navigation): configure GoRouter shell route and bottom navigation bar
 - [2026-02-22] chore(exams): implement cache invalidation trigger
+- [2026-02-23] chore(backup): refactor cache invalidation trigger
