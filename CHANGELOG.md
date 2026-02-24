@@ -1458,3 +1458,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-02-23] chore(backup): refactor cache invalidation trigger
 - [2026-02-23] perf(core): polish null check handling
 - [2026-02-24] perf(routine): update error boundary logic
+- [2026-02-24] test(notes): refactor backup manifest validation
