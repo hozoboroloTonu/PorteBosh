@@ -1461,3 +1461,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-02-24] test(notes): refactor backup manifest validation
 - [2026-02-25] refactor(dashboard): enhance time calculation edge cases
 - [2026-02-26] chore(viewers): document data transformation performance
+- [2026-02-27] style(tasks): enhance null check handling
