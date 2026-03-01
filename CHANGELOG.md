@@ -1463,3 +1463,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-02-26] chore(viewers): document data transformation performance
 - [2026-02-27] style(tasks): enhance null check handling
 - [2026-02-27] perf(dashboard): memoize today schedule aggregation stream
+- [2026-03-01] style(viewers): refactor error logging clarity
