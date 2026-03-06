@@ -1466,3 +1466,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-03-01] style(viewers): refactor error logging clarity
 - [2026-03-03] docs(theme): harden parameter validation
 - [2026-03-05] refactor(database): implement error logging clarity
+- [2026-03-06] fix(courses): document query index performance
