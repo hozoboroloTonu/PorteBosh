@@ -1476,3 +1476,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-03-08] feat(tasks): add priority badge with color coding
 - [2026-03-09] refactor(routine): resolve issue in query index performance
 - [2026-03-09] chore(dashboard): fix null check handling
+- [2026-03-10] refactor(notes): clean up parameter validation
