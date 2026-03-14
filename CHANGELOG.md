@@ -1478,3 +1478,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-03-09] chore(dashboard): fix null check handling
 - [2026-03-10] refactor(notes): clean up parameter validation
 - [2026-03-11] fix(theme): harden data transformation performance
+- [2026-03-14] fix(dashboard): implement backup manifest validation
