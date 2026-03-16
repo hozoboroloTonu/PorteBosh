@@ -1481,3 +1481,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-03-14] fix(dashboard): implement backup manifest validation
 - [2026-03-15] test(exams): update error logging clarity
 - [2026-03-16] chore(database): resolve issue in narrow screen layout
+- [2026-03-16] style(tasks): polish time calculation edge cases
