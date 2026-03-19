@@ -1485,3 +1485,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-03-17] fix(database): improve backup manifest validation
 - [2026-03-18] style(database): resolve issue in time calculation edge cases
 - [2026-03-18] refactor(dashboard): implement stream subscription lifecycle
+- [2026-03-19] test(notes): resolve issue in type safety constraints
