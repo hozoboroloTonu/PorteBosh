@@ -1487,3 +1487,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-03-18] refactor(dashboard): implement stream subscription lifecycle
 - [2026-03-19] test(notes): resolve issue in type safety constraints
 - [2026-03-20] perf(viewers): resolve issue in type safety constraints
+- [2026-03-21] test(core): harden time calculation edge cases
