@@ -1489,3 +1489,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-03-20] perf(viewers): resolve issue in type safety constraints
 - [2026-03-21] test(core): harden time calculation edge cases
 - [2026-03-24] feat(routine): add visual indicator for multiple sessions
+- [2026-03-28] refactor(database): optimize type safety constraints
