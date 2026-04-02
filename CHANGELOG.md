@@ -1496,3 +1496,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-03-30] docs(courses): expand tests for parameter validation
 - [2026-03-31] docs(exams): expand tests for type safety constraints
 - [2026-04-01] test(unit): test exam marks boundary validation logic
+- [2026-04-02] refactor(theme): expand tests for data transformation performance
