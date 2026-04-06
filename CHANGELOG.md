@@ -1500,3 +1500,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-04-05] refactor(routine): streamline null check handling
 - [2026-04-05] refactor(backup): refactor error boundary logic
 - [2026-04-05] style(tasks): implement accessibility semantics
+- [2026-04-06] test(tasks): update parameter validation
