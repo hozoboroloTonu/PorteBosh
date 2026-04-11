@@ -1504,3 +1504,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-04-06] chore(notes): harden error logging clarity
 - [2026-04-06] refactor(viewers): fix memory allocation efficiency
 - [2026-04-10] chore(exams): update null check handling
+- [2026-04-11] style(core): implement time calculation edge cases
