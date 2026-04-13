@@ -1506,3 +1506,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-04-10] chore(exams): update null check handling
 - [2026-04-11] style(core): implement time calculation edge cases
 - [2026-04-11] fix(routine): fix routine weekday badge highlight contrast
+- [2026-04-13] refactor(tasks): fix narrow screen layout
