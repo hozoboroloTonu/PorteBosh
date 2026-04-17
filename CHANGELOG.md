@@ -1512,3 +1512,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-04-16] chore(calendar): enhance error logging clarity
 - [2026-04-17] fix(database): update time calculation edge cases
 - [2026-04-17] docs(exams): refactor stream subscription lifecycle
+- [2026-04-17] test(courses): document null check handling
