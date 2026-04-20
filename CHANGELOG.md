@@ -1516,3 +1516,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-04-18] docs(routine): harden backup manifest validation
 - [2026-04-19] refactor(theme): streamline narrow screen layout
 - [2026-04-20] refactor(backup): document data transformation performance
+- [2026-04-20] perf(viewers): harden accessibility semantics
