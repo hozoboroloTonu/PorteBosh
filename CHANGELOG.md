@@ -1520,3 +1520,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-04-22] docs(files): document unit test assertion coverage
 - [2026-04-22] refactor(dashboard): adjust type safety constraints
 - [2026-04-25] chore(theme): adjust error logging clarity
+- [2026-04-25] feat(backup): polish error boundary logic
