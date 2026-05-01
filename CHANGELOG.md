@@ -1527,3 +1527,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-01] refactor(courses): document error logging clarity
 - [2026-05-01] feat(core): fix time calculation edge cases
 - [2026-05-01] fix(calendar): correct weekday display offset on week boundaries
+- [2026-05-01] fix(dashboard): document type safety constraints
