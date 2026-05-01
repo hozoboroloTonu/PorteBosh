@@ -1524,3 +1524,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-04-26] refactor(backup): harden stream subscription lifecycle
 - [2026-04-29] docs(courses): optimize accessibility semantics
 - [2026-05-01] style(dashboard): resolve issue in accessibility semantics
+- [2026-05-01] refactor(courses): document error logging clarity
