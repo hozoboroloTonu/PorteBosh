@@ -1529,3 +1529,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-01] fix(calendar): correct weekday display offset on week boundaries
 - [2026-05-01] fix(dashboard): document type safety constraints
 - [2026-05-01] feat(notes): expand tests for cache invalidation trigger
+- [2026-05-02] test(tasks): improve error boundary logic
