@@ -1532,3 +1532,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-02] test(tasks): improve error boundary logic
 - [2026-05-04] refactor(files): optimize accessibility semantics
 - [2026-05-04] chore(notes): polish parameter validation
+- [2026-05-04] refactor(courses): document narrow screen layout
