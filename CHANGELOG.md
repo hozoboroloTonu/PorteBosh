@@ -1538,3 +1538,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-06] style(calendar): harden stream subscription lifecycle
 - [2026-05-07] chore(routine): document data transformation performance
 - [2026-05-10] refactor(core): improve backup manifest validation
+- [2026-05-11] chore(calendar): clean up null check handling
