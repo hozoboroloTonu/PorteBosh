@@ -1540,3 +1540,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-10] refactor(core): improve backup manifest validation
 - [2026-05-11] chore(calendar): clean up null check handling
 - [2026-05-11] fix(calendar): harden query index performance
+- [2026-05-11] feat(files): streamline data transformation performance
