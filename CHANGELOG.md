@@ -1544,3 +1544,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-12] docs(exams): optimize narrow screen layout
 - [2026-05-12] fix(calendar): adjust null check handling
 - [2026-05-13] perf(viewers): fix type safety constraints
+- [2026-05-14] test: add unit test suite for time utilities, routine ordering, and backup validation
