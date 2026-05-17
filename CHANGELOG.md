@@ -1548,3 +1548,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-14] fix(courses): fix null check handling
 - [2026-05-17] feat(dashboard): implement parameter validation
 - [2026-05-17] chore(exams): clean up type safety constraints
+- [2026-05-17] style(dashboard): expand tests for null check handling
