@@ -1556,3 +1556,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-18] refactor(calendar): update backup manifest validation
 - [2026-05-18] feat(dashboard): implement unit test assertion coverage
 - [2026-05-18] docs(files): document null check handling
+- [2026-05-20] chore(exams): document memory allocation efficiency
