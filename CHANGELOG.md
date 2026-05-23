@@ -1570,3 +1570,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-23] refactor(database): optimize data transformation performance
 - [2026-05-23] perf(viewers): document narrow screen layout
 - [2026-05-23] fix(calendar): improve stream subscription lifecycle
+- [2026-05-23] fix(courses): adjust error logging clarity
