@@ -1567,3 +1567,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-22] refactor(backup): fix error logging clarity
 - [2026-05-23] fix(routine): reject sessions with end time before start time
 - [2026-05-23] chore(backup): expand tests for time calculation edge cases
+- [2026-05-23] refactor(database): optimize data transformation performance
