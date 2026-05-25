@@ -1573,3 +1573,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-23] fix(courses): adjust error logging clarity
 - [2026-05-23] test(dashboard): enhance accessibility semantics
 - [2026-05-23] chore(theme): improve backup manifest validation
+- [2026-05-25] perf(dashboard): document accessibility semantics
