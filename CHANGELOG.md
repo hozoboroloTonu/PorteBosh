@@ -1575,3 +1575,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-05-23] chore(theme): improve backup manifest validation
 - [2026-05-25] perf(dashboard): document accessibility semantics
 - [2026-05-25] feat(routine): polish data transformation performance
+- [2026-05-28] refactor(routine): harden time calculation edge cases
