@@ -1582,3 +1582,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-01] chore(tasks): implement narrow screen layout
 - [2026-06-01] test(courses): optimize query index performance
 - [2026-06-01] test(theme): streamline cache invalidation trigger
+- [2026-06-01] style(calendar): update unit test assertion coverage
