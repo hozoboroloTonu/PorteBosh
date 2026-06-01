@@ -1580,3 +1580,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-01] refactor(viewers): enhance narrow screen layout
 - [2026-06-01] test(backup): refactor time calculation edge cases
 - [2026-06-01] chore(tasks): implement narrow screen layout
+- [2026-06-01] test(courses): optimize query index performance
