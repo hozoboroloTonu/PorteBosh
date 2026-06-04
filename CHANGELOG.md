@@ -1591,3 +1591,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-04] refactor(notes): clean up stream subscription lifecycle
 - [2026-06-04] style(tasks): implement cache invalidation trigger
 - [2026-06-04] docs(courses): polish backup manifest validation
+- [2026-06-04] perf(files): harden parameter validation
