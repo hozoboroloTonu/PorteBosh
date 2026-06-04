@@ -1589,3 +1589,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-04] style(notes): adjust memory allocation efficiency
 - [2026-06-04] docs(calendar): optimize accessibility semantics
 - [2026-06-04] refactor(notes): clean up stream subscription lifecycle
+- [2026-06-04] style(tasks): implement cache invalidation trigger
