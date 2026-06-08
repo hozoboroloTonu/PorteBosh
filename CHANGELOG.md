@@ -1593,3 +1593,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-04] docs(courses): polish backup manifest validation
 - [2026-06-04] perf(files): harden parameter validation
 - [2026-06-05] chore(dashboard): optimize data transformation performance
+- [2026-06-08] fix(dashboard): streamline stream subscription lifecycle
