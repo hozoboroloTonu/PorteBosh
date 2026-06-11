@@ -1596,3 +1596,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-08] fix(dashboard): streamline stream subscription lifecycle
 - [2026-06-10] chore(files): optimize narrow screen layout
 - [2026-06-10] test(calendar): document type safety constraints
+- [2026-06-11] docs(viewers): document cache invalidation trigger
