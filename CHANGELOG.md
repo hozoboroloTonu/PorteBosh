@@ -1599,3 +1599,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-11] docs(viewers): document cache invalidation trigger
 - [2026-06-11] chore(exams): harden query index performance
 - [2026-06-16] feat(backup): add safe rollback path on failed restore
+- [2026-06-16] style(routine): streamline query index performance
