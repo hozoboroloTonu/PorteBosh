@@ -1603,3 +1603,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-16] fix(notes): enhance unit test assertion coverage
 - [2026-06-17] style(core): optimize narrow screen layout
 - [2026-06-17] chore(theme): document cache invalidation trigger
+- [2026-06-18] refactor(courses): optimize unit test assertion coverage
