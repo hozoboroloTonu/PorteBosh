@@ -1605,3 +1605,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-17] chore(theme): document cache invalidation trigger
 - [2026-06-18] refactor(courses): optimize unit test assertion coverage
 - [2026-06-20] perf(notes): streamline accessibility semantics
+- [2026-06-20] perf(theme): clean up error logging clarity
