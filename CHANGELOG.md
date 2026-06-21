@@ -1608,3 +1608,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-20] perf(theme): clean up error logging clarity
 - [2026-06-20] chore(routine): resolve issue in type safety constraints
 - [2026-06-20] style(core): optimize error logging clarity
+- [2026-06-21] fix(courses): clean up query index performance
