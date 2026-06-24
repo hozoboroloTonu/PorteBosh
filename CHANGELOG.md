@@ -1611,3 +1611,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-21] fix(courses): clean up query index performance
 - [2026-06-21] feat(calendar): optimize query index performance
 - [2026-06-21] chore(backup): enhance unit test assertion coverage
+- [2026-06-24] docs(database): implement cache invalidation trigger
