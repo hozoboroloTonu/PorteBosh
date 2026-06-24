@@ -1612,3 +1612,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-21] feat(calendar): optimize query index performance
 - [2026-06-21] chore(backup): enhance unit test assertion coverage
 - [2026-06-24] docs(database): implement cache invalidation trigger
+- [2026-06-24] feat(notes): refactor time calculation edge cases
