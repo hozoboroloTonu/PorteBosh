@@ -1614,3 +1614,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-24] docs(database): implement cache invalidation trigger
 - [2026-06-24] feat(notes): refactor time calculation edge cases
 - [2026-06-25] chore(files): improve stream subscription lifecycle
+- [2026-06-25] test(exams): document null check handling
