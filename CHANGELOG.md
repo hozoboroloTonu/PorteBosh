@@ -1616,3 +1616,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-25] chore(files): improve stream subscription lifecycle
 - [2026-06-25] test(exams): document null check handling
 - [2026-06-25] style(calendar): update backup manifest validation
+- [2026-06-25] style(database): adjust type safety constraints
