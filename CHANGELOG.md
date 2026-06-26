@@ -1619,3 +1619,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-25] style(database): adjust type safety constraints
 - [2026-06-25] perf(notes): enhance stream subscription lifecycle
 - [2026-06-26] style(exams): update error logging clarity
+- [2026-06-26] style(core): streamline type safety constraints
