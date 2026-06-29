@@ -1622,3 +1622,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-26] style(core): streamline type safety constraints
 - [2026-06-28] fix(tasks): optimize error logging clarity
 - [2026-06-29] chore(routine): adjust null check handling
+- [2026-06-29] fix(viewers): prevent image viewer crash on zero byte file
