@@ -1621,3 +1621,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-26] style(exams): update error logging clarity
 - [2026-06-26] style(core): streamline type safety constraints
 - [2026-06-28] fix(tasks): optimize error logging clarity
+- [2026-06-29] chore(routine): adjust null check handling
