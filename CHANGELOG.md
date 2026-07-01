@@ -1623,3 +1623,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-06-28] fix(tasks): optimize error logging clarity
 - [2026-06-29] chore(routine): adjust null check handling
 - [2026-06-29] fix(viewers): prevent image viewer crash on zero byte file
+- [2026-07-01] feat(routine): implement session duration calculator
