@@ -1627,3 +1627,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-07-01] refactor(files): harden type safety constraints
 - [2026-07-04] feat(dashboard): streamline memory allocation efficiency
 - [2026-07-04] refactor(core): improve stream subscription lifecycle
+- [2026-07-04] chore(courses): implement stream subscription lifecycle
