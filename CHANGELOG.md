@@ -1632,3 +1632,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-07-09] perf(database): harden unit test assertion coverage
 - [2026-07-09] refactor(exams): implement parameter validation
 - [2026-07-10] style(notes): harden memory allocation efficiency
+- [2026-07-11] test(database): expand tests for backup manifest validation
