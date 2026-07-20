@@ -1635,3 +1635,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-07-11] test(database): expand tests for backup manifest validation
 - [2026-07-12] perf(courses): enhance query index performance
 - [2026-07-16] perf(routine): fix null check handling
+- [2026-07-20] fix(notes): harden error logging clarity
