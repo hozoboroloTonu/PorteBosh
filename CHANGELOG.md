@@ -1640,3 +1640,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-07-21] perf(database): polish error logging clarity
 - [2026-07-21] feat(courses): expand tests for parameter validation
 - [2026-07-21] fix(courses): harden error logging clarity
+- [2026-07-21] fix(core): clean up null check handling
