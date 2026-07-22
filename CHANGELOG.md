@@ -1643,3 +1643,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-07-21] fix(core): clean up null check handling
 - [2026-07-21] fix(theme): harden error boundary logic
 - [2026-07-22] test(tasks): polish memory allocation efficiency
+- [2026-07-22] fix(courses): handle empty course description gracefully
