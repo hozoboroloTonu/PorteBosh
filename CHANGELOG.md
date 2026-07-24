@@ -1647,3 +1647,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-07-22] test(database): fix time calculation edge cases
 - [2026-07-23] refactor(calendar): implement time calculation edge cases
 - [2026-07-24] test(files): refactor memory allocation efficiency
+- [2026-07-24] refactor(routine): clean up routine repository queries
