@@ -1651,3 +1651,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-07-24] refactor(routine): improve stream subscription lifecycle
 - [2026-07-24] fix(viewers): optimize parameter validation
 - [2026-07-24] docs(files): polish null check handling
+- [2026-07-26] test(backup): update memory allocation efficiency
