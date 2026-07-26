@@ -1654,3 +1654,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-07-26] test(backup): update memory allocation efficiency
 - [2026-07-26] fix(database): document cache invalidation trigger
 - [2026-07-26] perf(tasks): optimize error logging clarity
+- [2026-07-26] perf(files): fix type safety constraints
