@@ -1658,3 +1658,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-07-27] feat(backup): implement backup manifest validation
 - [2026-07-29] refactor(exams): resolve issue in data transformation performance
 - [2026-07-29] perf(viewers): fix null check handling
+- [2026-07-30] feat(notes): support note duplication action
