@@ -1660,3 +1660,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-07-29] perf(viewers): fix null check handling
 - [2026-07-30] feat(notes): support note duplication action
 - [2026-07-31] chore(files): update unit test assertion coverage
+- [2026-07-31] feat(tasks): support assignment estimated study minutes
