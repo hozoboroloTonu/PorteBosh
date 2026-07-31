@@ -1663,3 +1663,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-07-31] feat(tasks): support assignment estimated study minutes
 - [2026-07-31] style(notes): refactor narrow screen layout
 - [2026-07-31] style(calendar): update narrow screen layout
+- [2026-07-31] docs(calendar): update time calculation edge cases
