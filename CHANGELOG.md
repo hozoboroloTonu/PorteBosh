@@ -1667,3 +1667,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-01] feat(courses): add course code search filter
 - [2026-08-03] refactor(theme): document unit test assertion coverage
 - [2026-08-03] refactor(routine): clean up data transformation performance
+- [2026-08-03] fix(viewers): implement type safety constraints
