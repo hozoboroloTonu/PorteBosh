@@ -1671,3 +1671,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-03] chore(files): optimize parameter validation
 - [2026-08-03] style(routine): harden memory allocation efficiency
 - [2026-08-05] chore(backup): adjust query index performance
+- [2026-08-06] test(notes): refactor narrow screen layout
