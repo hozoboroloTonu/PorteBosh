@@ -1675,3 +1675,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-07] fix(calendar): enhance error logging clarity
 - [2026-08-07] fix(database): resolve issue in unit test assertion coverage
 - [2026-08-08] style(calendar): clean up null check handling
+- [2026-08-08] refactor(database): improve parameter validation
