@@ -1677,3 +1677,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-08] style(calendar): clean up null check handling
 - [2026-08-08] refactor(database): improve parameter validation
 - [2026-08-08] chore(files): polish error logging clarity
+- [2026-08-10] style(theme): standardize button border radii across forms
