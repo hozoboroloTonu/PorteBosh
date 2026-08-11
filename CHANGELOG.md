@@ -1683,3 +1683,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-11] fix(dashboard): enhance null check handling
 - [2026-08-11] feat(calendar): clean up data transformation performance
 - [2026-08-11] refactor(theme): streamline null check handling
+- [2026-08-11] perf(core): clean up accessibility semantics
