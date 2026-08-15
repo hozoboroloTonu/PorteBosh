@@ -1686,3 +1686,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-11] perf(core): clean up accessibility semantics
 - [2026-08-11] refactor(calendar): clean up stream subscription lifecycle
 - [2026-08-12] style(backup): improve stream subscription lifecycle
+- [2026-08-15] perf(exams): fix parameter validation
