@@ -1688,3 +1688,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-12] style(backup): improve stream subscription lifecycle
 - [2026-08-15] perf(exams): fix parameter validation
 - [2026-08-15] docs(theme): harden unit test assertion coverage
+- [2026-08-15] perf(theme): harden type safety constraints
