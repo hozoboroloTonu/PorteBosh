@@ -1693,3 +1693,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-17] style(exams): optimize stream subscription lifecycle
 - [2026-08-17] fix(notes): enhance type safety constraints
 - [2026-08-17] style(core): refactor accessibility semantics
+- [2026-08-17] perf(courses): polish query index performance
