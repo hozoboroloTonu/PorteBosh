@@ -1696,3 +1696,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-17] perf(courses): polish query index performance
 - [2026-08-17] perf(dashboard): streamline accessibility semantics
 - [2026-08-17] refactor(tasks): improve narrow screen layout
+- [2026-08-17] style(notes): polish narrow screen layout
