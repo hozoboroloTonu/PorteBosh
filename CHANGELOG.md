@@ -1691,3 +1691,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-15] perf(theme): harden type safety constraints
 - [2026-08-16] docs(backup): harden cache invalidation trigger
 - [2026-08-17] style(exams): optimize stream subscription lifecycle
+- [2026-08-17] fix(notes): enhance type safety constraints
