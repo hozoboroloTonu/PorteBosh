@@ -1699,3 +1699,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-17] style(notes): polish narrow screen layout
 - [2026-08-17] perf(files): adjust unit test assertion coverage
 - [2026-08-18] style(routine): resolve issue in backup manifest validation
+- [2026-08-21] style(viewers): fix accessibility semantics
