@@ -1702,3 +1702,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-21] style(viewers): fix accessibility semantics
 - [2026-08-24] fix(exams): fix unit test assertion coverage
 - [2026-08-24] feat(theme): clean up backup manifest validation
+- [2026-08-24] refactor(viewers): harden memory allocation efficiency
