@@ -1700,3 +1700,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-17] perf(files): adjust unit test assertion coverage
 - [2026-08-18] style(routine): resolve issue in backup manifest validation
 - [2026-08-21] style(viewers): fix accessibility semantics
+- [2026-08-24] fix(exams): fix unit test assertion coverage
