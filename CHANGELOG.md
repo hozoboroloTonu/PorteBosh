@@ -1706,3 +1706,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-24] refactor(backup): fix error boundary logic
 - [2026-08-25] test: add widget test suite for weekday selector and empty state components
 - [2026-08-26] refactor(notes): enhance narrow screen layout
+- [2026-08-26] feat(viewers): expand tests for memory allocation efficiency
