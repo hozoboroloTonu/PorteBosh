@@ -1708,3 +1708,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-26] refactor(notes): enhance narrow screen layout
 - [2026-08-26] feat(viewers): expand tests for memory allocation efficiency
 - [2026-08-26] chore(viewers): enhance stream subscription lifecycle
+- [2026-08-26] style(notes): fix unit test assertion coverage
