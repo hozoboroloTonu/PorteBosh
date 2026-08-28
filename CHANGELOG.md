@@ -1711,3 +1711,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-26] style(notes): fix unit test assertion coverage
 - [2026-08-26] refactor(files): harden accessibility semantics
 - [2026-08-28] refactor(dashboard): document error boundary logic
+- [2026-08-28] feat(calendar): adjust stream subscription lifecycle
