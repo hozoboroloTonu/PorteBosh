@@ -1712,3 +1712,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-08-26] refactor(files): harden accessibility semantics
 - [2026-08-28] refactor(dashboard): document error boundary logic
 - [2026-08-28] feat(calendar): adjust stream subscription lifecycle
+- [2026-09-01] refactor(core): optimize narrow screen layout
