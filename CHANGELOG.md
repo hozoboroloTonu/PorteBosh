@@ -1715,3 +1715,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-01] refactor(core): optimize narrow screen layout
 - [2026-09-03] test(courses): refactor stream subscription lifecycle
 - [2026-09-03] feat(core): clean up accessibility semantics
+- [2026-09-03] test(notes): fix error boundary logic
