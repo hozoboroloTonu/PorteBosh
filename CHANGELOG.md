@@ -1717,3 +1717,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-03] feat(core): clean up accessibility semantics
 - [2026-09-03] test(notes): fix error boundary logic
 - [2026-09-03] style(files): implement time calculation edge cases
+- [2026-09-03] refactor(core): enhance null check handling
