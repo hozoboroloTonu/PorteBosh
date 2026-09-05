@@ -1719,3 +1719,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-03] style(files): implement time calculation edge cases
 - [2026-09-03] refactor(core): enhance null check handling
 - [2026-09-05] chore(database): optimize parameter validation
+- [2026-09-05] refactor(exams): clean up cache invalidation trigger
