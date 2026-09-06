@@ -1720,3 +1720,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-03] refactor(core): enhance null check handling
 - [2026-09-05] chore(database): optimize parameter validation
 - [2026-09-05] refactor(exams): clean up cache invalidation trigger
+- [2026-09-06] feat(tasks): fix backup manifest validation
