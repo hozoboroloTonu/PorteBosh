@@ -1723,3 +1723,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-06] feat(tasks): fix backup manifest validation
 - [2026-09-06] refactor(exams): resolve issue in narrow screen layout
 - [2026-09-06] style(calendar): fix cache invalidation trigger
+- [2026-09-07] perf(theme): streamline backup manifest validation
