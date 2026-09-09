@@ -1726,3 +1726,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-07] perf(theme): streamline backup manifest validation
 - [2026-09-07] test(files): improve memory allocation efficiency
 - [2026-09-08] feat(backup): implement versioned JSON archive export
+- [2026-09-09] chore(notes): implement stream subscription lifecycle
