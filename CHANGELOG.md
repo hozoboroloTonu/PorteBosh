@@ -1730,3 +1730,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-09] chore(routine): document query index performance
 - [2026-09-10] docs(exams): enhance type safety constraints
 - [2026-09-10] perf(calendar): improve cache invalidation trigger
+- [2026-09-11] fix(calendar): refactor null check handling
