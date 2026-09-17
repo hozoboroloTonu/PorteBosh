@@ -1735,3 +1735,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-11] style(files): optimize data transformation performance
 - [2026-09-11] test(notes): update parameter validation
 - [2026-09-17] docs(database): clean up error logging clarity
+- [2026-09-17] style(theme): align light background token with muted emerald
