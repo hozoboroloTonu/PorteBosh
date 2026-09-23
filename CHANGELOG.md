@@ -1743,3 +1743,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-21] test(files): harden narrow screen layout
 - [2026-09-21] test(calendar): streamline data transformation performance
 - [2026-09-23] docs(files): update error boundary logic
+- [2026-09-23] fix(viewers): clean up error logging clarity
