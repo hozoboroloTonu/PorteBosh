@@ -1746,3 +1746,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-23] fix(viewers): clean up error logging clarity
 - [2026-09-23] chore(core): clean up accessibility semantics
 - [2026-09-24] feat(tasks): add overdue task highlight styling
+- [2026-09-26] fix(tasks): prevent negative estimated minutes in form
