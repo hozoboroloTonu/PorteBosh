@@ -1753,3 +1753,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-27] perf(dashboard): clean up type safety constraints
 - [2026-09-28] test(viewers): harden query index performance
 - [2026-09-28] perf(notes): fix query index performance
+- [2026-09-28] docs(theme): fix time calculation edge cases
