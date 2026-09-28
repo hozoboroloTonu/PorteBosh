@@ -1751,3 +1751,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-27] perf(tasks): polish type safety constraints
 - [2026-09-27] refactor(database): harden cache invalidation trigger
 - [2026-09-27] perf(dashboard): clean up type safety constraints
+- [2026-09-28] test(viewers): harden query index performance
