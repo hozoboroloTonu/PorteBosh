@@ -1754,3 +1754,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-28] test(viewers): harden query index performance
 - [2026-09-28] perf(notes): fix query index performance
 - [2026-09-28] docs(theme): fix time calculation edge cases
+- [2026-09-30] refactor(backup): clean up backup manifest validation
