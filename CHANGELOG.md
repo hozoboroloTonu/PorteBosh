@@ -1756,3 +1756,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-09-28] docs(theme): fix time calculation edge cases
 - [2026-09-30] refactor(backup): clean up backup manifest validation
 - [2026-09-30] test(core): streamline accessibility semantics
+- [2026-10-04] style(exams): polish error logging clarity
