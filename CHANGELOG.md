@@ -1759,3 +1759,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-10-04] style(exams): polish error logging clarity
 - [2026-10-04] feat(calendar): implement unit test assertion coverage
 - [2026-10-04] perf(notes): improve backup manifest validation
+- [2026-10-07] test(routine): expand tests for cache invalidation trigger
