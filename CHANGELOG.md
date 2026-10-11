@@ -1763,3 +1763,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-10-08] fix(routine): polish null check handling
 - [2026-10-08] feat(theme): adjust data transformation performance
 - [2026-10-10] style(notes): enhance type safety constraints
+- [2026-10-11] refactor(database): improve time calculation edge cases
