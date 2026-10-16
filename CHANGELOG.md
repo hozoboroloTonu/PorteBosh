@@ -1770,3 +1770,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-10-11] perf(dashboard): enhance time calculation edge cases
 - [2026-10-13] perf(theme): improve data transformation performance
 - [2026-10-14] feat(backup): enhance parameter validation
+- [2026-10-16] feat(backup): validate schema version before restoring
