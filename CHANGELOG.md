@@ -1774,3 +1774,4 @@ All notable technical changes to the PorteBosh project are documented in this fi
 - [2026-10-16] test(files): update null check handling
 - [2026-10-18] chore(notes): streamline time calculation edge cases
 - [2026-10-20] fix(dashboard): implement backup manifest validation
+- [2026-10-22] chore(release): polish README, update version metadata, and finalize V1 offline workspace
